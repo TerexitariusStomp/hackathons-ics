@@ -68,6 +68,15 @@ LOCATION:Online
 URL:https://hackodisha-6a.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Hack For Tomorrow 2026 — build window
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+UID:hack-devfolio-devfolio-hft2026-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://hft2026.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] haxfinity — build window
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270105

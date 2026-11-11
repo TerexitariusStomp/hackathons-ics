@@ -6,8 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — unstop
 BEGIN:VEVENT
 SUMMARY:[NEW] 13th Protocol: An AI Hackathon 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794890-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -16,8 +16,8 @@ URL:https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyag
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] 404 Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1793392-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -25,8 +25,8 @@ URL:https://unstop.com/hackathons/404-hackathon-hax-baby-1793392
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AETHOS - Day Zero — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1730263-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -35,8 +35,8 @@ URL:https://unstop.com/hackathons/aethos-day-zero-together-we-solve-173026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AGENTIC X 2.0 – AI & Robotics Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1779479-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -45,8 +45,8 @@ URL:https://unstop.com/hackathons/agentic-x-20-ai-robotics-hackathon-woxse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AI BuildFest 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1774417-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -54,8 +54,8 @@ URL:https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AI Builder Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799509-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -64,8 +64,8 @@ URL:https://unstop.com/hackathons/ai-builder-hackathon-product-space-17995
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AI Product Buildathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799475-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -74,8 +74,8 @@ URL:https://unstop.com/hackathons/ai-product-buildathon-product-space-1799
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AI Vibeathon 1.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799092-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -84,8 +84,8 @@ URL:https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Adaption Dataset Challenge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799281-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -94,8 +94,8 @@ URL:https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-tech
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AgentX | Agentic AI Showcase — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746976-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -104,8 +104,8 @@ URL:https://unstop.com/hackathons/agentic-ai-hackathon-aerophilia-sahyadri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Agentic AI in BFSI Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800857-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -115,8 +115,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Agents that act. Systems that answer. | Free Virtual Agentic
  -AI Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1777504-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -125,8 +125,8 @@ URL:https://unstop.com/hackathons/agents-that-act-systems-that-answer-stud
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Agentware | 72-Hour Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800324-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -135,8 +135,8 @@ URL:https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-ra
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] AlgoSSTrike — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1765493-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -145,8 +145,8 @@ URL:https://unstop.com/hackathons/algosstrike-scaler-school-of-technology-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Algonex 1.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1781078-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -155,8 +155,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Avishkaar Season 4 (Virtual) Hackathon: A National-Level Inn
  ovation Challenge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1756262-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -166,8 +166,8 @@ URL:https://unstop.com/hackathons/avishkaar-season-4-virtual-hackathon-a-n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Beat The Market | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764450-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -175,19 +175,9 @@ URL:https://unstop.com/hackathons/beat-the-market-techkriti27-techkriti-17
  64450
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Bits2Wave — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
-UID:hack-unstop-unstop-1761893-window@hackathons-ics
-DESCRIPTION:Source: unstop
-LOCATION:TBA
-URL:https://unstop.com/hackathons/bits2wave-bms-institute-of-technology-an
- d-management-bmsitm-bangalore-1761893
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Bug Bounty: Multiverse Wars Competition — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1775867-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -196,8 +186,8 @@ URL:https://unstop.com/hackathons/bug-bounty-multiverse-wars-competition-h
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Build 2 Rise 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1775217-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -205,8 +195,8 @@ URL:https://unstop.com/hackathons/build-2-rise-2026-krixov-1775217
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Build Your Bharat Hackathon (BYB) — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1770621-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -215,8 +205,8 @@ URL:https://unstop.com/hackathons/build-your-bharat-hackathon-byb-build-yo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Build with Agora - BLR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1773211-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -224,8 +214,8 @@ URL:https://unstop.com/hackathons/build-with-agora-blr-knotic-1773211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] BuildLab 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1770422-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -233,17 +223,27 @@ URL:https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] BuildSprint — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794884-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
 URL:https://unstop.com/hackathons/buildsprint-workelate-1794884
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Building Medical Tourism Platform — build window
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
+UID:hack-unstop-unstop-1763060-window@hackathons-ics
+DESCRIPTION:Source: unstop
+LOCATION:TBA
+URL:https://unstop.com/hackathons/building-medical-tourism-platform-ethaum
+ -venture-partners-1763060
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] CMR HACKFEST 4.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1782514-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -252,8 +252,8 @@ URL:https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineeri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CSS Battle — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1802090-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -262,8 +262,8 @@ URL:https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CTF Arena — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1742226-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -272,8 +272,8 @@ URL:https://unstop.com/hackathons/ctf-arena-international-institute-of-inf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Capture The Flag — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771958-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -282,8 +282,8 @@ URL:https://unstop.com/hackathons/capture-the-flag-acharya-institute-of-te
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Catalyst - Solo AI Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771798-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -292,8 +292,8 @@ URL:https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Central India Hackathon 4.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1788753-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -302,8 +302,8 @@ URL:https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-col
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Change For Build — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798658-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -312,8 +312,8 @@ URL:https://unstop.com/hackathons/change-for-build-shri-vishwakarma-skill-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Code Conquest — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1783515-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -321,8 +321,8 @@ URL:https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Code N Compete | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764474-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -331,8 +331,8 @@ URL:https://unstop.com/hackathons/code-n-compete-techkriti27-techkriti-176
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Code Red — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1801200-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -342,8 +342,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Code to Cart: AI x E-commerce Hackathon | KartAI X CodeXcele
  rate — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1803912-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -352,8 +352,8 @@ URL:https://unstop.com/hackathons/code-to-cart-ai-x-e-commerce-hackathon-k
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CodeAstra India 2026 – National Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1791313-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -362,8 +362,8 @@ URL:https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CodeBuild 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772164-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -371,8 +371,8 @@ URL:https://unstop.com/hackathons/codebuild-20-cobuild-1772164
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CodeClash: The November Nexus 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1775207-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -381,8 +381,8 @@ URL:https://unstop.com/hackathons/codeclash-the-november-nexus-2026-lets-c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CodeDia 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798702-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -391,8 +391,8 @@ URL:https://unstop.com/hackathons/code-dia-2026-lovely-professional-univer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] CodeElitePune - Hack With Pune — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794522-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -401,8 +401,8 @@ URL:https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Codeverse 2.0 Hackathon  — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1791467-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -411,8 +411,8 @@ URL:https://unstop.com/hackathons/codeverse-20-hackathon-metaverse-club-17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Cognition- AI Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1790269-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -421,8 +421,8 @@ URL:https://unstop.com/hackathons/cognition-ai-hackathon-techtonics-sri-gu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Competitive Programming — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771951-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -431,8 +431,8 @@ URL:https://unstop.com/hackathons/competitive-programming-acharya-institut
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Crackhunt — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799765-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -441,8 +441,8 @@ URL:https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code (Chattisgarh) — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1735451-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -451,8 +451,8 @@ URL:https://unstop.com/hackathons/craft-n-code-chattisgarh-international-i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code Delhi — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746233-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -462,8 +462,8 @@ URL:https://unstop.com/hackathons/craft-n-code-delhi-d3-2026-tech-fest-iii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code Haryana — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746142-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -473,8 +473,8 @@ URL:https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code Odisha — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1773246-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -484,8 +484,8 @@ URL:https://unstop.com/hackathons/craft-n-code-odisha-d3-2026-tech-fest-ii
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code Tamil Nadu — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746234-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -495,8 +495,8 @@ URL:https://unstop.com/hackathons/craft-n-code-tamil-nadu-d3-2026-tech-fes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Craft N Code Telangana — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746232-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -506,8 +506,8 @@ URL:https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Data Analytics Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799543-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -516,8 +516,8 @@ URL:https://unstop.com/hackathons/data-analytics-hackathon-gradient-learni
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DataNyx'26 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771537-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -527,8 +527,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DecodeX '26 - Enter the Mission. Decode the Unknown — buil
  d window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794529-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -538,8 +538,8 @@ URL:https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DoomForge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1793341-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -548,8 +548,8 @@ URL:https://unstop.com/hackathons/doomforge-vellore-institute-of-technolog
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Drone Soccer | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764446-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -558,8 +558,8 @@ URL:https://unstop.com/hackathons/drone-soccer-techkriti27-techkriti-17644
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] ELUCode - 8 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800924-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -567,8 +567,8 @@ URL:https://unstop.com/hackathons/elucode-8-edulinkup-1800924
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Ethon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799758-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -577,8 +577,8 @@ URL:https://unstop.com/hackathons/ethon-solutions-2k27-army-institute-of-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Exora 2.0 : Unveil The Build — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799143-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -587,8 +587,8 @@ URL:https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineeri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Expanding Horizons 8.0   BIOTECH — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799790-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -597,8 +597,8 @@ URL:https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Expanding Horizons 8.0  Mechanical — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799788-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -607,8 +607,8 @@ URL:https://unstop.com/hackathons/expanding-horizons-80-mechanical-expandi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Expanding Horizons 8.0 Consultancy — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799776-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -618,8 +618,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] FirstCommit '26 — National Online Hackathon  — build win
  dow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772846-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -628,8 +628,8 @@ URL:https://unstop.com/hackathons/firstcommit-26-national-online-hackathon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Flare — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1797543-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -637,8 +637,8 @@ URL:https://unstop.com/hackathons/flare-hoollow-1797543
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] From Prompt to Performance  — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1762305-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -648,8 +648,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Galuxium Nexus V3: The Global AI\\\, Autonomous Systems & Ve
  nture SaaS Championship — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800395-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -658,8 +658,8 @@ URL:https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Game of Codes — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1797379-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -668,8 +668,8 @@ URL:https://unstop.com/hackathons/game-of-codes-national-institute-of-tech
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Goblet of Codes — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798470-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -678,8 +678,8 @@ URL:https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] HACKRUSH 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799179-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -687,8 +687,8 @@ URL:https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack Era 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771785-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -696,8 +696,8 @@ URL:https://unstop.com/hackathons/hack-era-20-erazone-1771785
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack Paradise — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1793030-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -706,8 +706,8 @@ URL:https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack-a-Sol 5.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1786809-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -716,8 +716,8 @@ URL:https://unstop.com/hackathons/hack-a-sol-50-international-institute-of
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack<N>Pitch — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1780735-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -726,8 +726,8 @@ URL:https://unstop.com/hackathons/hacknpitch-e-summit26-jadavpur-universit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] HackKumbh 2026 : Tech For Humanity — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800629-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -736,8 +736,8 @@ URL:https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hackday — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1784666-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -745,8 +745,8 @@ URL:https://unstop.com/hackathons/hackday-trishulx-1784666
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hacknexus — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746846-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -755,8 +755,8 @@ URL:https://unstop.com/hackathons/hacknexus-mastermind-research-technologi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hacknova'27 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772235-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -765,8 +765,8 @@ URL:https://unstop.com/hackathons/hacknova27-20-bharati-vidyapeeth-deemed-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hacksmart 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799091-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -774,8 +774,8 @@ URL:https://unstop.com/hackathons/hacksmart-20-geek-room-1799091
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hacktopia Pune 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1774876-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -784,8 +784,8 @@ URL:https://unstop.com/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Haven Ahmedabad — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1769964-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -793,8 +793,8 @@ URL:https://unstop.com/hackathons/haven-ahmedabad-hackclub-1769964
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] HexWartz — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1778042-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -802,8 +802,8 @@ URL:https://unstop.com/hackathons/hexwartz-sharda-university-agra-1778042
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Housing Fintech Challenge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1802169-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -812,28 +812,18 @@ URL:https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bomba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hovermania | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764460-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
 URL:https://unstop.com/hackathons/hovermania-techkriti27-techkriti-1764460
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] IBM Db2Hack 2026  — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
-UID:hack-unstop-unstop-1795047-window@hackathons-ics
-DESCRIPTION:Source: unstop
-LOCATION:TBA
-URL:https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ib
- m-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] IDEATHON- FutureX: Innovating for Global Challenges — buil
  d window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1803074-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -842,8 +832,8 @@ URL:https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] INDIA GOT SPOT 1.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771992-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -852,8 +842,8 @@ URL:https://unstop.com/hackathons/india-got-spot-10-swastik-community-1771
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] INFRASHIFT Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1792835-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -861,8 +851,8 @@ URL:https://unstop.com/hackathons/infrashift-infrasitycom-1792835
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] INNOVATE INDIA - Hackathon 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1792025-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -871,8 +861,8 @@ URL:https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-17920
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] InIt CTF — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1763117-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -881,8 +871,8 @@ URL:https://unstop.com/hackathons/init-ctf-init-ctf-hiii-hackers-in-india-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Inceptrix 3.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794479-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -892,8 +882,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] InnovaThon - Faculty of Engineering and Technology Agra Coll
  ege X Nimblux — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1770284-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -902,8 +892,8 @@ URL:https://unstop.com/hackathons/innovathon-faculty-of-engineering-and-te
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Innovate - Online Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1783838-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -913,8 +903,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Inter-College Coding Competition 2026 | Java & Python | ₹1
  0\\\,000 in Cash Prizes+ Free Lunch  — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1801814-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -923,8 +913,8 @@ URL:https://unstop.com/hackathons/inter-college-coding-competition-2026-co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] K Hacks 4.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772496-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -934,8 +924,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Logic Bumble – Coding & Debugging Challenge — build wind
  ow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798516-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -944,8 +934,8 @@ URL:https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Madlab - The Ultimate Innovation Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1785416-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -954,8 +944,8 @@ URL:https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Manoeuvre | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764469-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -963,8 +953,8 @@ URL:https://unstop.com/hackathons/manoeuvre-techkriti27-techkriti-1764469
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] MassX CTF 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1791573-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -973,8 +963,8 @@ URL:https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Multirotor | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764463-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -982,8 +972,8 @@ URL:https://unstop.com/hackathons/multirotor-techkriti27-techkriti-1764463
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] NASA Space Apps Challenge 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1774877-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -993,8 +983,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] National Research & Cloud Innovation Challenge Season 4 by 3
  SVK — Powered by Adaption Labs | 4.8K+ Registrations — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1652247-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1004,8 +994,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] NavUtkarsh x Leo Hackathon 2026 | Innovate\\\, Build & Solve
   Real-World Problems — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771952-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1014,8 +1004,8 @@ URL:https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] NeuroHack — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1781449-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1023,8 +1013,8 @@ URL:https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] NewYear X Thon 2K27 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1763561-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1032,8 +1022,8 @@ URL:https://unstop.com/hackathons/newyear-x-thon-2k27-brainwaves-1763561
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Nexathon : Next Gen Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1795775-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1042,8 +1032,8 @@ URL:https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Next Horizon 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1773842-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1052,8 +1042,8 @@ URL:https://unstop.com/hackathons/next-horizon-2026-the-institution-of-eng
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] NextGen AI Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1800891-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1062,8 +1052,8 @@ URL:https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-18008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] One Who Codes 2026 - A Portfolio Challenge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1784554-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1072,8 +1062,8 @@ URL:https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Ooty Hacks — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1768100-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1082,8 +1072,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Orbix - 48-Hour Global Open Innovation Hackathon — build w
  indow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1780048-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1093,8 +1083,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Out of Bounds - Web Game Development Hackathon (Paid) — bu
  ild window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1773229-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1103,8 +1093,8 @@ URL:https://unstop.com/hackathons/out-of-bounds-web-game-development-hacka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Overclock — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798677-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1113,8 +1103,8 @@ URL:https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Pitch Premier | Techkriti | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764454-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1123,8 +1113,8 @@ URL:https://unstop.com/hackathons/pitch-premier-techkriti27-techkriti-1764
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Pixels To Prognosis — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1781358-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1132,8 +1122,8 @@ URL:https://unstop.com/hackathons/pixels-to-prognosis-iit-madras-1781358
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Pokerbots — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1762863-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1142,8 +1132,8 @@ URL:https://unstop.com/hackathons/pokerbots-synergy-26-international-insti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Product Challenge | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764167-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1152,8 +1142,8 @@ URL:https://unstop.com/hackathons/product-challenge-techkriti27-techkriti-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Project Jupyter — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799762-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1162,8 +1152,8 @@ URL:https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-inst
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Prompt Battle — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1746171-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1172,8 +1162,8 @@ URL:https://unstop.com/hackathons/prompt-battle-aerophilia-sahyadri-colleg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Prompt to Product — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771961-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1183,8 +1173,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] PromptWars Hyderabad 2026 - AI & Prompt Engineering Competit
  ion — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1765597-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1194,8 +1184,8 @@ URL:https://unstop.com/hackathons/promptwars-hyderabad-2026-ai-prompt-engi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Quasar 5.0: 36-Hour International Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772406-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1205,8 +1195,8 @@ URL:https://unstop.com/hackathons/quasar-50-36-hour-international-hackatho
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Queryquest: SQL Problem-Solving Challenge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1793112-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1216,8 +1206,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em — bui
  ld window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1777639-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1227,8 +1217,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] RedStone Rush 12 Hour Open Innovation Hackathon — build wi
  ndow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771949-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1237,8 +1227,8 @@ URL:https://unstop.com/hackathons/redstone-rush-12-hour-open-innovation-ha
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Remote Robotics Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1795134-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1247,8 +1237,8 @@ URL:https://unstop.com/hackathons/remote-robotics-hackathon-pes-university
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Reverse Coding X — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1782949-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1256,8 +1246,8 @@ URL:https://unstop.com/hackathons/reverse-coding-x-iit-madras-1782949
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Rewired (Tech Hackathon) — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1802400-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1266,8 +1256,8 @@ URL:https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Robo Race | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764445-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1275,8 +1265,8 @@ URL:https://unstop.com/hackathons/robo-race-techkriti27-techkriti-1764445
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Roboforge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1778710-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1285,8 +1275,8 @@ URL:https://unstop.com/hackathons/roboforge-maharaja-surajmal-institute-of
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Robowars | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764470-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1294,8 +1284,8 @@ URL:https://unstop.com/hackathons/robowars-techkriti27-techkriti-1764470
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] SHE CODE — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1802089-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1304,8 +1294,8 @@ URL:https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] SQL Mania — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799761-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1314,8 +1304,8 @@ URL:https://unstop.com/hackathons/sql-mania-solutions-2k27-army-institute-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Seed Hackathon 2026 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1798287-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1324,8 +1314,8 @@ URL:https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-educ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Shaastra Programming Contest 2027 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1782685-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1334,8 +1324,8 @@ URL:https://unstop.com/hackathons/shaastra-programming-contest-2027-iit-ma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Singularity 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1755564-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1345,8 +1335,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Skysparks - Boeing National Aeromodelling Competition | TECH
  KRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764461-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1355,8 +1345,8 @@ URL:https://unstop.com/hackathons/skysparks-boeing-national-aeromodelling-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Slay CTF — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1743206-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1365,8 +1355,8 @@ URL:https://unstop.com/hackathons/slay-ctf-jalpaiguri-government-engineeri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Solidworks — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1799800-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1375,8 +1365,8 @@ URL:https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Speed Quant | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764471-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1387,8 +1377,8 @@ BEGIN:VEVENT
 SUMMARY:[NEW] Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&
  T Edutech - Online Round is Free\\\, No Rs 1200 Charged in it — build wi
  ndow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1768041-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1398,8 +1388,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] StarForge : 24-Hour National Level Hackathon — build windo
  w
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1773675-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1408,8 +1398,8 @@ URL:https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institut
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Strategy Sprint | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764188-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1418,8 +1408,8 @@ URL:https://unstop.com/hackathons/strategy-sprint-techkriti27-techkriti-17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Students of Global Impact — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1751032-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1429,8 +1419,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2
  027 Auction Strategy — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1792758-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1439,8 +1429,8 @@ URL:https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] TCU Hack Day — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1763620-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1449,8 +1439,8 @@ URL:https://unstop.com/hackathons/tcu-hack-day-technical-community-univers
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Tech Expo 2027 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771511-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1459,8 +1449,8 @@ URL:https://unstop.com/hackathons/tech-expo-2027-parul-university-pu-vadod
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] TechNovus AAYAM  XI — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1797015-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1470,8 +1460,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Techkriti Grand Prix | TECHKRITI | IIT KANPUR — build wind
  ow
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764465-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1480,8 +1470,8 @@ URL:https://unstop.com/hackathons/techkriti-grand-prix-techkriti27-techkri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Technova 2027 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1786992-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1490,8 +1480,8 @@ URL:https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-178
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The Arcticathon  — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1759619-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1500,8 +1490,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The Black-Box Protocol: Stage 03 - System Convergence — bu
  ild window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1745778-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1510,8 +1500,8 @@ URL:https://unstop.com/hackathons/the-black-box-protocol-stage-03-system-c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The Code Vibes Hackathon 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1794889-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1520,8 +1510,8 @@ URL:https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vib
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The DevForge - Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1765465-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1530,8 +1520,8 @@ URL:https://unstop.com/hackathons/the-devforge-hackathon-scaler-school-of-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The Last Daemon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1771084-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1539,8 +1529,8 @@ URL:https://unstop.com/hackathons/the-last-daemon-beunwrapd-1771084
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] The Liar's Chatroom — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1762783-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1549,8 +1539,8 @@ URL:https://unstop.com/hackathons/the-liars-chatroom-international-institu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Trade Quest | TECHKRITI | IIT KANPUR — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1764452-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1559,8 +1549,8 @@ URL:https://unstop.com/hackathons/trade-quest-techkriti27-techkriti-176445
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Trivora — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1760462-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1569,8 +1559,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] VIT Bhopal University to Host Health Hackathon 3.0 in Januar
  y 2027 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1781454-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1580,8 +1570,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] VYOM - National Level Hackathon Cum Project Competition — 
  build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1793796-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1590,8 +1580,8 @@ URL:https://unstop.com/hackathons/vyom-national-level-hackathon-cum-projec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] VYTRON'26 (Hackathon) — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1786652-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1599,8 +1589,8 @@ URL:https://unstop.com/hackathons/vytron26-droidecks-1786652
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Vibe Forge — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1772221-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1609,8 +1599,8 @@ URL:https://unstop.com/hackathons/vibe-forge-nims-university-nu-jaipur-177
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Vidyutspanda - Hardware Hackathon — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1780955-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1619,8 +1609,8 @@ URL:https://unstop.com/hackathons/vidyutspanda-hardware-hackathon-dayanand
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] WIE HackEarth 2.0 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1790097-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1629,8 +1619,8 @@ URL:https://unstop.com/hackathons/wie-hackearth-20-galgotias-university-gu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] WebClone Mania — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1783135-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
@@ -1638,8 +1628,8 @@ URL:https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Zenith'26 — build window
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261115
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261202
 UID:hack-unstop-unstop-1790028-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA

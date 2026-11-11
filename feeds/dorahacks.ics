@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:[NEW] Mozilla Otari Hackathon - Devs Wilding Online! — build win
  dow
 DTSTART:20261028T160000Z
-DTEND:20261111T165900Z
+DTEND:20261112T045900Z
 UID:hack-dorahacks-mozilla-devs-wilding-window@hackathons-ics
 DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
