@@ -1,0 +1,54 @@
+name: update-ics
+
+on:
+  schedule:
+    - cron: "7 */6 * * *"   # 4x daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.23"
+      - run: pip install -r requirements.txt
+
+      - name: start hackathon aggregator (0xarchit/hackathon-api, MIT)
+        run: |
+          git clone --depth 1 https://github.com/0xarchit/hackathon-api /tmp/hoa
+          cd /tmp/hoa && go build -o /tmp/hoa-server ./cmd/server
+          AGGREGATOR_URL=http://localhost:8080/api/v1/hackathons /tmp/hoa-server &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:8080/api/v1/hackathons >/dev/null && break
+            sleep 2
+          done
+          curl -sf http://localhost:8080/api/v1/hackathons | head -c 200
+
+      - name: build feeds
+        env:
+          AGGREGATOR_URL: http://localhost:8080/api/v1/hackathons
+        run: python3 hackathons_ics.py build
+
+      - name: commit changes
+        run: |
+          git config user.name "hackathons-ics-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add hackathons.ics feeds/ .hackathons_state.json CHANGELOG.md hackathons.json
+          git diff --cached --quiet || git commit -m "update feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: sync secret gist (optional — needs GIST_TOKEN secret)
+        env:
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "GIST_TOKEN not set — skipping"; exit 0; fi
+          gh gist edit b5ccbd96b295f3e7948549730f3074b2 \
+            --filename hackathons.ics hackathons.ics || true

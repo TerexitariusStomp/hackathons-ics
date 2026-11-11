@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — devpost
+BEGIN:VEVENT
+SUMMARY:[NEW] DSH Hacks V2 ($100k+ in prizes!) — build window
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20261116
+UID:hack-devpost-devpost-30500-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://dsh-hacks-v2.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Code for Humanity — build window
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20270116
+UID:hack-devpost-devpost-30740-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://code-for-humanity.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Meta VR Start Developer Competition 2026 — build window
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261119
+UID:hack-devpost-devpost-31024-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://start-developer-competition-26.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Arbiter Hacks V1 — build window
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261222
+UID:hack-devpost-devpost-30789-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://arbiter-hacks-v1.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] UGREEN Hackathon 2026 on AI NAS — build window
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261117
+UID:hack-devpost-devpost-31552-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://ugreenhackathon.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Codegeist 2026: Build with context. Ship with confidence. 
+ — build window
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261223
+UID:hack-devpost-devpost-31572-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://codegeist2026.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Kiroween 2026 — build window
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261205
+UID:hack-devpost-devpost-31667-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://kiroween.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] QNX Global Hackathon — build window
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261216
+UID:hack-devpost-devpost-31083-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://qnx.devpost.com/
+END:VEVENT
+END:VCALENDAR

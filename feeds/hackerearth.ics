@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — hackerearth
+BEGIN:VEVENT
+SUMMARY:[NEW] IBM Z Day — build window
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261119
+UID:hack-hackerearth-he-ibm-z-day-window@hackathons-ics
+DESCRIPTION:Source: hackerearth
+LOCATION:Online
+URL:https://www.hackerearth.com/challenges/hackathon/ibm-z-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] ContextCon: Remember Everything — build window
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20270118
+UID:hack-hackerearth-he-contextcon-remember-everything-window@hackathons-i
+ cs
+DESCRIPTION:Source: hackerearth
+LOCATION:Online
+URL:https://www.hackerearth.com/challenges/hackathon/contextcon-remember-e
+ verything/
+END:VEVENT
+END:VCALENDAR

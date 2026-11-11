@@ -1,0 +1,20 @@
+# Notices / attributions
+
+This project composes the following open-source components:
+
+- **0xarchit/hackathon-api** — https://github.com/0xarchit/hackathon-api
+  MIT License. Go aggregator covering Devfolio, Unstop, Devpost, MLH,
+  HackerEarth, Hack2Skill, ReSkill, WhereUElevate and Devnovate.
+  Cloned and executed at a pinned commit inside CI; not vendored.
+
+Python dependencies (see requirements.txt):
+
+- httpx — BSD-3-Clause
+- selectolax — MIT
+- icalendar — BSD-2-Clause
+- python-dateutil — Apache-2.0 / BSD-3-Clause
+- rapidfuzz — MIT
+
+Data sources are public web pages/APIs; the Encode Club Supabase anon key
+is embedded in encodeclub.com's public client bundle (public by design,
+read-only usage).

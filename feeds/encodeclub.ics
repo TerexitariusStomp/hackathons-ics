@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — encodeclub
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Solana Hackathon 2026 — build window
+DTSTART:20261011T230000Z
+DTEND:20261116T000000Z
+UID:hack-encode-solana-hackathon-2026-window@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Solana Hackathon 2026 registration
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+UID:hack-encode-solana-hackathon-2026-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Solana Hackathon 2026 submissions
+DTSTART:20261109T115900Z
+DTEND:20261109T125900Z
+UID:hack-encode-solana-hackathon-2026-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Green & AI Hackathon: ESCP x Encode Club — build w
+ indow
+DTSTART:20261012T080000Z
+DTEND:20261012T190000Z
+UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-window@hackathons-
+ ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
+ de-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Green & AI Hackathon: ESCP x Encode Club r
+ egistration
+DTSTART:20261012T180000Z
+DTEND:20261012T190000Z
+UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
+ de-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Green & AI Hackathon: ESCP x Encode Club s
+ ubmissions
+DTSTART:20261012T180000Z
+DTEND:20261012T190000Z
+UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
+ de-club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Encode London Hackathon 2026 — build window
+DTSTART:20261023T090000Z
+DTEND:20261025T163000Z
+UID:hack-encode-encode-london-2026-window@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/encode-london-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Encode London Hackathon 2026 registration
+DTSTART:20261025T163000Z
+DTEND:20261025T173000Z
+UID:hack-encode-encode-london-2026-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/encode-london-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Encode London Hackathon 2026 submissions
+DTSTART:20261025T163000Z
+DTEND:20261025T173000Z
+UID:hack-encode-encode-london-2026-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/encode-london-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Concordium Trusted Agents Hackathon — build window
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261212
+UID:hack-encode-concordium-trusted-agents-hackathon-window@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
+ hon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Concordium Trusted Agents Hackathon regist
+ ration
+DTSTART:20261206T235900Z
+DTEND:20261207T005900Z
+UID:hack-encode-concordium-trusted-agents-hackathon-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
+ hon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Concordium Trusted Agents Hackathon submis
+ sions
+DTSTART:20261206T235900Z
+DTEND:20261207T005900Z
+UID:hack-encode-concordium-trusted-agents-hackathon-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
+ hon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Build your content-led GTM motion: Hackathon — bui
+ ld window
+DTSTART:20261110T180000Z
+DTEND:20261110T213000Z
+UID:hack-encode-flywheel-content-led-gtm-hackathon-window@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Build your content-led GTM motion: Hackath
+ on registration
+DTSTART:20261110T213000Z
+DTEND:20261110T223000Z
+UID:hack-encode-flywheel-content-led-gtm-hackathon-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Build your content-led GTM motion: Hackath
+ on submissions
+DTSTART:20261110T213000Z
+DTEND:20261110T223000Z
+UID:hack-encode-flywheel-content-led-gtm-hackathon-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
+ on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Black Forest Labs Creative Hackathon — build windo
+ w
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261212
+UID:hack-encode-black-forest-labs-creative-hackathon-window@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/black-forest-labs-creative-hacka
+ thon
+END:VEVENT
+END:VCALENDAR

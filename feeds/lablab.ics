@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — lablab
+BEGIN:VEVENT
+SUMMARY:[NEW] AMD AI League — build window
+DTSTART:20260901T190000Z
+DTEND:20261201T190000Z
+UID:hack-lablab-amd-lablab-ai-academy-challenge-window@hackathons-ics
+DESCRIPTION:Tags: ai · Source: lablab
+LOCATION:Online
+URL:https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] AMD Developer Hackathon: ACT III — build window
+DTSTART:20261012T150000Z
+DTEND:20261018T103000Z
+UID:hack-lablab-amd-developer-hackathon-act-iii-window@hackathons-ics
+DESCRIPTION:Tags: ai · Source: lablab
+LOCATION:Online
+URL:https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Vultr: Agent Rush Hackathon — build window
+DTSTART:20261103T160000Z
+DTEND:20261108T230000Z
+UID:hack-lablab-vultr-hackathon-window@hackathons-ics
+DESCRIPTION:Tags: ai · Source: lablab
+LOCATION:Online
+URL:https://lablab.build/ai-hackathons/vultr-hackathon
+END:VEVENT
+END:VCALENDAR

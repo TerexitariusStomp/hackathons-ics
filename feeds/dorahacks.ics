@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — dorahacks
+BEGIN:VEVENT
+SUMMARY:[NEW] BCH BLAZE 2026 — build window
+DTSTART:20261010T120000Z
+DTEND:20261122T140000Z
+UID:hack-dorahacks-bchblaze2026-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/bchblaze2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Cortensor Hackathon #5 — build window
+DTSTART:20261016T070000Z
+DTEND:20261219T075900Z
+UID:hack-dorahacks-2418-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/2418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] dreamDEX Perps Builder Bounty — build window
+DTSTART:20261019T120000Z
+DTEND:20261115T143000Z
+UID:hack-dorahacks-dreamdex-perps-bounty-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/dreamdex-perps-bounty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Mozilla Otari Hackathon - Devs Wilding Online! — build win
+ dow
+DTSTART:20261028T160000Z
+DTEND:20261111T165900Z
+UID:hack-dorahacks-mozilla-devs-wilding-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/mozilla-devs-wilding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Aevum Builder Challenge #1 — build window
+DTSTART:20261104T060000Z
+DTEND:20261211T080000Z
+UID:hack-dorahacks-qday-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/qday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Reactive Omni Buildathon — build window
+DTSTART:20261104T120000Z
+DTEND:20261205T200000Z
+UID:hack-dorahacks-reactive-omni-buildathon-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/reactive-omni-buildathon
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,124 @@
+{
+  "hackathons": [
+    {
+      "slug": "hermes-agent-plugin-hackathon",
+      "title": "Hermes Agent Plugin Hackathon",
+      "url": "https://hermes-agent.nousresearch.com/docs/guides/build-a-hermes-plugin",
+      "start": "2026-11-04",
+      "end": "2026-11-11",
+      "sub_deadline": "2026-11-11T22:00:00Z",
+      "location": "Online",
+      "prize": "$20,000",
+      "tags": ["ai-agents", "plugins"],
+      "note": "NousResearch; submit plugin catalog PR + <90s demo video + Typeform"
+    },
+    {
+      "slug": "near-hackathon-2026",
+      "title": "NEAR Hackathon",
+      "url": "https://near.ai/hackathon",
+      "start": "2026-11-01",
+      "end": "2026-11-14",
+      "sub_deadline": "2026-11-14",
+      "location": "Online",
+      "prize": "$250,000",
+      "tags": ["crypto", "ai-agents", "near"]
+    },
+    {
+      "slug": "paypal-ai-hackathon",
+      "title": "PayPal AI Hackathon",
+      "url": "https://paypalaihackathon.devpost.com/",
+      "start": "2026-11-05",
+      "end": "2026-11-12",
+      "sub_deadline": "2026-11-12T20:00:00Z",
+      "location": "Online",
+      "prize": "$67,500",
+      "tags": ["ai", "payments"]
+    },
+    {
+      "slug": "airwallex-agentic-banking-hackathon",
+      "title": "Airwallex Agentic Banking Hackathon",
+      "url": "",
+      "start": "2026-11-06",
+      "end": "2026-11-13",
+      "sub_deadline": "2026-11-13",
+      "location": "Online",
+      "prize": "$100,000",
+      "tags": ["ai-agents", "fintech", "banking"]
+    },
+    {
+      "slug": "bewater-rebuild-ownership-2",
+      "title": "BeWater Rebuild Ownership 2.0",
+      "url": "",
+      "start": "2026-11-10",
+      "end": "2026-12-10",
+      "sub_deadline": "2026-12-10",
+      "location": "Online",
+      "prize": "~$13-18K awards",
+      "tags": ["privacy", "web3", "filecoin"]
+    },
+    {
+      "slug": "rivalz-ai-world-hackathon",
+      "title": "Rivalz AI World Hackathon",
+      "url": "",
+      "start": "2026-11-20",
+      "end": "2026-12-20",
+      "sub_deadline": "2026-12-16",
+      "location": "Online",
+      "prize": "~$85,000",
+      "tags": ["ai-agents", "crypto"]
+    },
+    {
+      "slug": "parastate-hackathon",
+      "title": "ParaState Hackathon",
+      "url": "",
+      "start": "2026-11-15",
+      "end": "2026-12-15",
+      "sub_deadline": "2026-12-15",
+      "location": "Online",
+      "prize": "$100,000",
+      "tags": ["rust", "evm", "smart-contracts"]
+    },
+    {
+      "slug": "merge-agent-pay-hackathon",
+      "title": "MERGE Agent Pay Hackathon",
+      "url": "",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "location": "Madrid, Spain",
+      "prize": "€25,000+",
+      "tags": ["ai-agents", "agent-payments", "irl"]
+    },
+    {
+      "slug": "arbitrum-open-house-buildathon",
+      "title": "Arbitrum Open House — Online Buildathon",
+      "url": "",
+      "start": "2026-11-16",
+      "end": "2026-12-06",
+      "sub_deadline": "2026-12-05",
+      "location": "Online",
+      "prize": "TBD",
+      "tags": ["arbitrum", "ethereum", "l2"]
+    },
+    {
+      "slug": "ethchiangmai-longevity-hackathon",
+      "title": "ETHChiangmai & Longevity Hackathon",
+      "url": "",
+      "start": "2026-12-26",
+      "end": "2026-12-27",
+      "location": "Chiang Mai, Thailand",
+      "prize": "$10,000+",
+      "tags": ["ethereum", "longevity", "irl"]
+    },
+    {
+      "slug": "terminal3-build-scale-grant",
+      "title": "Terminal 3 Build+Scale Agent Grant",
+      "url": "https://dorahacks.io/hackathon/t3-build-scale-grant",
+      "start": "2026-11-10",
+      "end": "2026-12-24",
+      "sub_deadline": "2026-12-24",
+      "location": "Online",
+      "prize": "$1,800 pool + Google Cloud credits referral",
+      "tags": ["grant", "ai-agents", "soc2"]
+    }
+  ]
+}

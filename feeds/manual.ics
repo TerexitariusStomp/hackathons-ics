@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — manual
+BEGIN:VEVENT
+SUMMARY:[NEW] NEAR Hackathon — build window
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261115
+UID:hack-near-hackathon-2026-window@hackathons-ics
+DESCRIPTION:Prize: $250\\\,000 · Tags: crypto\\\, ai-agents\\\, near · S
+ ource: manual
+LOCATION:Online
+URL:https://near.ai/hackathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: NEAR Hackathon submissions
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:hack-near-hackathon-2026-sub@hackathons-ics
+DESCRIPTION:Prize: $250\\\,000 · Tags: crypto\\\, ai-agents\\\, near · S
+ ource: manual
+LOCATION:Online
+URL:https://near.ai/hackathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Hermes Agent Plugin Hackathon — build window
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261112
+UID:hack-hermes-agent-plugin-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: $20\\\,000 · Tags: ai-agents\\\, plugins · Source: ma
+ nual
+LOCATION:Online
+URL:https://hermes-agent.nousresearch.com/docs/guides/build-a-hermes-plugi
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Hermes Agent Plugin Hackathon submissions
+DTSTART:20261111T220000Z
+DTEND:20261111T230000Z
+UID:hack-hermes-agent-plugin-hackathon-sub@hackathons-ics
+DESCRIPTION:Prize: $20\\\,000 · Tags: ai-agents\\\, plugins · Source: ma
+ nual
+LOCATION:Online
+URL:https://hermes-agent.nousresearch.com/docs/guides/build-a-hermes-plugi
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] PayPal AI Hackathon — build window
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261113
+UID:hack-paypal-ai-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: $67\\\,500 · Tags: ai\\\, payments · Source: manual
+LOCATION:Online
+URL:https://paypalaihackathon.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: PayPal AI Hackathon submissions
+DTSTART:20261112T200000Z
+DTEND:20261112T210000Z
+UID:hack-paypal-ai-hackathon-sub@hackathons-ics
+DESCRIPTION:Prize: $67\\\,500 · Tags: ai\\\, payments · Source: manual
+LOCATION:Online
+URL:https://paypalaihackathon.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Airwallex Agentic Banking Hackathon — build window
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261114
+UID:hack-airwallex-agentic-banking-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: $100\\\,000 · Tags: ai-agents\\\, fintech\\\, banking 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Airwallex Agentic Banking Hackathon submissions
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+UID:hack-airwallex-agentic-banking-hackathon-sub@hackathons-ics
+DESCRIPTION:Prize: $100\\\,000 · Tags: ai-agents\\\, fintech\\\, banking 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] BeWater Rebuild Ownership 2.0 — build window
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261211
+UID:hack-bewater-rebuild-ownership-2-window@hackathons-ics
+DESCRIPTION:Prize: ~$13-18K awards · Tags: privacy\\\, web3\\\, filecoin 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: BeWater Rebuild Ownership 2.0 submissions
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+UID:hack-bewater-rebuild-ownership-2-sub@hackathons-ics
+DESCRIPTION:Prize: ~$13-18K awards · Tags: privacy\\\, web3\\\, filecoin 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Terminal 3 Build+Scale Agent Grant — build window
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261225
+UID:hack-terminal3-build-scale-grant-window@hackathons-ics
+DESCRIPTION:Prize: $1\\\,800 pool + Google Cloud credits referral · Tags:
+  grant\\\, ai-agents\\\, soc2 · Source: manual
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/t3-build-scale-grant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Terminal 3 Build+Scale Agent Grant submissions
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+UID:hack-terminal3-build-scale-grant-sub@hackathons-ics
+DESCRIPTION:Prize: $1\\\,800 pool + Google Cloud credits referral · Tags:
+  grant\\\, ai-agents\\\, soc2 · Source: manual
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/t3-build-scale-grant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] ParaState Hackathon — build window
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261216
+UID:hack-parastate-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: $100\\\,000 · Tags: rust\\\, evm\\\, smart-contracts 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: ParaState Hackathon submissions
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+UID:hack-parastate-hackathon-sub@hackathons-ics
+DESCRIPTION:Prize: $100\\\,000 · Tags: rust\\\, evm\\\, smart-contracts 
+ · Source: manual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Arbitrum Open House — Online Buildathon — build window
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261207
+UID:hack-arbitrum-open-house-buildathon-window@hackathons-ics
+DESCRIPTION:Prize: TBD · Tags: arbitrum\\\, ethereum\\\, l2 · Source: ma
+ nual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Arbitrum Open House — Online Buildathon submissi
+ ons
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+UID:hack-arbitrum-open-house-buildathon-sub@hackathons-ics
+DESCRIPTION:Prize: TBD · Tags: arbitrum\\\, ethereum\\\, l2 · Source: ma
+ nual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Rivalz AI World Hackathon — build window
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261221
+UID:hack-rivalz-ai-world-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: ~$85\\\,000 · Tags: ai-agents\\\, crypto · Source: ma
+ nual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Rivalz AI World Hackathon submissions
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+UID:hack-rivalz-ai-world-hackathon-sub@hackathons-ics
+DESCRIPTION:Prize: ~$85\\\,000 · Tags: ai-agents\\\, crypto · Source: ma
+ nual
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] MERGE Agent Pay Hackathon — build window
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+UID:hack-merge-agent-pay-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: €25\\\,000+ · Tags: ai-agents\\\, agent-payments\\\,
+  irl · Source: manual
+LOCATION:Madrid\\\, Spain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] ETHChiangmai & Longevity Hackathon — build window
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261228
+UID:hack-ethchiangmai-longevity-hackathon-window@hackathons-ics
+DESCRIPTION:Prize: $10\\\,000+ · Tags: ethereum\\\, longevity\\\, irl · 
+ Source: manual
+LOCATION:Chiang Mai\\\, Thailand
+END:VEVENT
+END:VCALENDAR

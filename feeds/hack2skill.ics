@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — hack2skill
+BEGIN:VEVENT
+SUMMARY:[NEW] Build with AI: Bootcamps — build window
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20261201
+UID:hack-hack2skill-h2s-6991f48ef55c0f157228b7f5-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/bootcamps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Build with AI: Bootcamps registration
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:hack-hack2skill-h2s-6991f48ef55c0f157228b7f5-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/bootcamps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Build with AI: PromptWars — build window
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20270101
+UID:hack-hack2skill-h2s-6991a6b1f55c0f157226ed0b-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/promptwarsdelhincr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Build with AI: PromptWars registration
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:hack-hack2skill-h2s-6991a6b1f55c0f157226ed0b-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/promptwarsdelhincr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Virtual: PromptWars — build window
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20261201
+UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/pwvirtual1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Virtual: PromptWars registration
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/pwvirtual1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Builder Pop-Up — build window
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20261127
+UID:hack-hack2skill-h2s-6aaa2929ed627e91ce54e73d-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/builderpopup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Builder Pop-Up registration
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+UID:hack-hack2skill-h2s-6aaa2929ed627e91ce54e73d-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/builderpopup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Future Health Digital Innovation Challenge — build window
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261121
+UID:hack-hack2skill-h2s-6ac3d0d91a569381de40801a-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/futurehealthchallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Future Health Digital Innovation Challenge registr
+ ation
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+UID:hack-hack2skill-h2s-6ac3d0d91a569381de40801a-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/futurehealthchallenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Meet the Builders 2026 — build window
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261126
+UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/meetthebuilders2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Meet the Builders 2026 registration
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/meetthebuilders2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Watch Face Design Challenge 2026 — build window
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261207
+UID:hack-hack2skill-h2s-6accc56533dcbd6a9ae74556-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/watchfacedesignchallenge2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Watch Face Design Challenge 2026 registration
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+UID:hack-hack2skill-h2s-6accc56533dcbd6a9ae74556-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/watchfacedesignchallenge2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Startup Buildathon India 2026 — build window
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261114
+UID:hack-hack2skill-h2s-6adb4af80d89d95c54260809-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/startupbuildathon2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Startup Buildathon India 2026 registration
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+UID:hack-hack2skill-h2s-6adb4af80d89d95c54260809-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/startupbuildathon2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Build with Google Gemini — build window
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261204
+UID:hack-hack2skill-h2s-6ae9a5dd31468ea831043e3e-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/buildwithgemini
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Build with Google Gemini registration
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+UID:hack-hack2skill-h2s-6ae9a5dd31468ea831043e3e-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/buildwithgemini
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Innodata AI Hackathon — build window
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261207
+UID:hack-hack2skill-h2s-6aeb0aafdffa09e0829f7797-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/innodata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Innodata AI Hackathon registration
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+UID:hack-hack2skill-h2s-6aeb0aafdffa09e0829f7797-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/innodata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] PromptWars x Sphoorthy Engineering College — build window
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+UID:hack-hack2skill-h2s-6aac1c95842f7006f4dabe83-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/promptwars-x-sphoorthy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: PromptWars x Sphoorthy Engineering College registr
+ ation
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:hack-hack2skill-h2s-6aac1c95842f7006f4dabe83-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/promptwars-x-sphoorthy
+END:VEVENT
+END:VCALENDAR
