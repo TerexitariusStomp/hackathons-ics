@@ -127,10 +127,27 @@ BEGIN:VEVENT
 SUMMARY:[NEW] Encode: FLUX: In Production — build window
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261212
-UID:hack-encode-black-forest-labs-creative-hackathon-window@hackathons-ics
+UID:hack-encode-bfl-flux-in-production-window@hackathons-ics
 DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
 LOCATION:Online
-URL:https://www.encodeclub.com/programmes/black-forest-labs-creative-hacka
- thon
+URL:https://www.encodeclub.com/programmes/bfl-flux-in-production
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: FLUX: In Production registration
+DTSTART:20261211T225900Z
+DTEND:20261211T235900Z
+UID:hack-encode-bfl-flux-in-production-reg@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/bfl-flux-in-production
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: FLUX: In Production submissions
+DTSTART:20261211T225900Z
+DTEND:20261211T235900Z
+UID:hack-encode-bfl-flux-in-production-sub@hackathons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:Online
+URL:https://www.encodeclub.com/programmes/bfl-flux-in-production
 END:VEVENT
 END:VCALENDAR

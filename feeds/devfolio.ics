@@ -14,15 +14,6 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Code N Mod — build window
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-UID:hack-devfolio-devfolio-codenmod-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://codenmod.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Lean In Hacks 8.0 — build window
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
@@ -39,6 +30,15 @@ UID:hack-devfolio-devfolio-genarrative-clash-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://genarrative-clash.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Code N Mod — build window
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+UID:hack-devfolio-devfolio-codenmod-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://codenmod.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DevNexus 2.0 — build window

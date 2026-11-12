@@ -68,4 +68,13 @@ DESCRIPTION:Source: devpost
 LOCATION:Online
 URL:https://qnx.devpost.com/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Reddit’s Game of the Day Hackathon — build window
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261209
+UID:hack-devpost-devpost-31644-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://redditgameofday2026.devpost.com/
+END:VEVENT
 END:VCALENDAR
