@@ -124,8 +124,7 @@ URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
  on
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Black Forest Labs Creative Hackathon — build windo
- w
+SUMMARY:[NEW] Encode: FLUX: In Production — build window
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261212
 UID:hack-encode-black-forest-labs-creative-hackathon-window@hackathons-ics

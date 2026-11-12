@@ -43,6 +43,25 @@ LOCATION:Remote
 URL:https://devnovate.co/event/pixel-wars-x26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Hack With Delhi 4.0 — build window
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:Microsoft Office \\\, New Delhi
+URL:https://devnovate.co/event/hack-with-delhi-40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Hack With Delhi 4.0 registration
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:Microsoft Office \\\, New Delhi
+URL:https://devnovate.co/event/hack-with-delhi-40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] Homingo Hack Days: Online AI Hackathon — build window
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261207
@@ -63,23 +82,23 @@ LOCATION:Online
 URL:https://devnovate.co/event/homingo-hack-days-online-ai-hackathon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack With Delhi 4.0 — build window
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-window@hackathons-ic
+SUMMARY:[NEW] DESIGNX 24 — build window
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+UID:hack-devnovate-devnovate-6af538c8eba10569892694b7-window@hackathons-ic
  s
 DESCRIPTION:Source: devnovate
-LOCATION:Microsoft Office \\\, New Delhi
-URL:https://devnovate.co/event/hack-with-delhi-40
+LOCATION:Remote
+URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hack With Delhi 4.0 registration
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-reg@hackathons-ics
+SUMMARY:[NEW] DEADLINE: DESIGNX 24 registration
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:hack-devnovate-devnovate-6af538c8eba10569892694b7-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
-LOCATION:Microsoft Office \\\, New Delhi
-URL:https://devnovate.co/event/hack-with-delhi-40
+LOCATION:Remote
+URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DotSlash 10.0 — build window
