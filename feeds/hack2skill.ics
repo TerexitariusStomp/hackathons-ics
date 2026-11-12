@@ -77,25 +77,6 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/builderpopup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Future Health Digital Innovation Challenge — build window
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261121
-UID:hack-hack2skill-h2s-6ac3d0d91a569381de40801a-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/futurehealthchallenge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Future Health Digital Innovation Challenge registr
- ation
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-UID:hack-hack2skill-h2s-6ac3d0d91a569381de40801a-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/futurehealthchallenge
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Meet the Builders 2026 — build window
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261126

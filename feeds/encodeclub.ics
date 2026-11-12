@@ -32,40 +32,6 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Green & AI Hackathon: ESCP x Encode Club — build w
- indow
-DTSTART:20261012T080000Z
-DTEND:20261012T190000Z
-UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-window@hackathons-
- ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
- de-club
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Green & AI Hackathon: ESCP x Encode Club r
- egistration
-DTSTART:20261012T180000Z
-DTEND:20261012T190000Z
-UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-reg@hackathons-ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
- de-club
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Green & AI Hackathon: ESCP x Encode Club s
- ubmissions
-DTSTART:20261012T180000Z
-DTEND:20261012T190000Z
-UID:hack-encode-agentic-ai-hackathon-escp-x-encode-club-sub@hackathons-ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/agentic-ai-hackathon-escp-x-enco
- de-club
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Encode: Encode London Hackathon 2026 — build window
 DTSTART:20261023T090000Z
 DTEND:20261025T163000Z

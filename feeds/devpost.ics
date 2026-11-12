@@ -14,15 +14,6 @@ LOCATION:Online
 URL:https://dsh-hacks-v2.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Code for Humanity — build window
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20270116
-UID:hack-devpost-devpost-30740-window@hackathons-ics
-DESCRIPTION:Source: devpost
-LOCATION:Online
-URL:https://code-for-humanity.devpost.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Meta VR Start Developer Competition 2026 — build window
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261119
