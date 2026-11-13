@@ -1,5 +1,101 @@
 ## 2026-11-13
 
+### Added (14)
+- dorahacks-delphi-agent-competition2
+- hackerearth-he-groww-next-2026
+- unstop-unstop-1745979
+- unstop-unstop-1771084
+- unstop-unstop-1773120
+- unstop-unstop-1776729
+- unstop-unstop-1778597
+- unstop-unstop-1784631
+- unstop-unstop-1789849
+- unstop-unstop-1790680
+- unstop-unstop-1791410
+- unstop-unstop-1792269
+- unstop-unstop-1809486
+- whereuelevate-wue-0
+
+### Removed (19)
+- devfolio-devfolio-goa-buildathon
+- devfolio-devfolio-hacksprint-3
+- devfolio-devfolio-health-hackathon
+- dorahacks-mozilla-devs-wilding
+- unstop-unstop-1746976
+- unstop-unstop-1763117
+- unstop-unstop-1770284
+- unstop-unstop-1770621
+- unstop-unstop-1771798
+- unstop-unstop-1772846
+- unstop-unstop-1774877
+- unstop-unstop-1777504
+- unstop-unstop-1779479
+- unstop-unstop-1781454
+- unstop-unstop-1784666
+- unstop-unstop-1790269
+- unstop-unstop-1791573
+- unstop-unstop-1798658
+- unstop-unstop-1800857
+
+### Rescheduled (142)
+- unstop-unstop-1799475
+- unstop-unstop-1803074
+- unstop-unstop-1735451
+- unstop-unstop-1774876
+- unstop-unstop-1763561
+- unstop-unstop-1786997
+- unstop-unstop-1764463
+- unstop-unstop-1761846
+- unstop-unstop-1786809
+- unstop-unstop-1781449
+- unstop-unstop-1781358
+- encode-bfl-flux-in-production
+- unstop-unstop-1771961
+- unstop-unstop-1652247
+- unstop-unstop-1743206
+- unstop-unstop-1806122
+- unstop-unstop-1780735
+- unstop-unstop-1764446
+- hack2skill-h2s-6adb4af80d89d95c54260809
+- unstop-unstop-1794884
+- unstop-unstop-1764454
+- unstop-unstop-1801814
+- unstop-unstop-1764188
+- unstop-unstop-1763620
+- unstop-unstop-1794522
+- unstop-unstop-1800395
+- unstop-unstop-1772221
+- unstop-unstop-1798287
+- unstop-unstop-1745778
+- unstop-unstop-1771537
+- unstop-unstop-1746846
+- unstop-unstop-1773246
+- unstop-unstop-1771951
+- unstop-unstop-1764445
+- unstop-unstop-1772164
+- unstop-unstop-1764461
+- unstop-unstop-1807297
+- unstop-unstop-1793341
+- unstop-unstop-1799092
+- unstop-unstop-1790097
+- unstop-unstop-1773675
+- unstop-unstop-1781078
+- unstop-unstop-1794890
+- unstop-unstop-1802400
+- unstop-unstop-1759619
+- unstop-unstop-1794529
+- unstop-unstop-1772496
+- unstop-unstop-1799776
+- unstop-unstop-1768100
+- unstop-unstop-1799800
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-13
+
 ### Added (2)
 - unstop-unstop-1769121
 - unstop-unstop-1770690

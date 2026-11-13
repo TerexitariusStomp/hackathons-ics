@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hackathons-ics//hackathon-megaplan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Megaplan — whereuelevate
+BEGIN:VEVENT
+SUMMARY:[NEW] Nationwide Case Study Competitions by Grant Thornton Bharat 
+ — build window
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20261207
+UID:hack-whereuelevate-wue-0-window@hackathons-ics
+DESCRIPTION:Source: whereuelevate
+LOCATION:TBA
+URL:https://whereuelevate.com/drills/nationwide-case-study-competitions-by
+ -grant-thornton-bharat-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Nationwide Case Study Competitions by Grant Thornt
+ on Bharat registration
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+UID:hack-whereuelevate-wue-0-reg@hackathons-ics
+DESCRIPTION:Source: whereuelevate
+LOCATION:TBA
+URL:https://whereuelevate.com/drills/nationwide-case-study-competitions-by
+ -grant-thornton-bharat-2026
+END:VEVENT
+END:VCALENDAR

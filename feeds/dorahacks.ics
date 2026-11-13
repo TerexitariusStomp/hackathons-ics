@@ -32,16 +32,6 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/dreamdex-perps-bounty
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Mozilla Otari Hackathon - Devs Wilding Online! — build win
- dow
-DTSTART:20261028T160000Z
-DTEND:20261112T045900Z
-UID:hack-dorahacks-mozilla-devs-wilding-window@hackathons-ics
-DESCRIPTION:Tags: web3 · Source: dorahacks
-LOCATION:Online
-URL:https://dorahacks.io/hackathon/mozilla-devs-wilding
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Aevum Builder Challenge #1 — build window
 DTSTART:20261104T060000Z
 DTEND:20261211T080000Z
@@ -58,5 +48,14 @@ UID:hack-dorahacks-reactive-omni-buildathon-window@hackathons-ics
 DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
 URL:https://dorahacks.io/hackathon/reactive-omni-buildathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Agent Arena Competition: Evidence Mining — build window
+DTSTART:20261113T160000Z
+DTEND:20261211T170000Z
+UID:hack-dorahacks-delphi-agent-competition2-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/delphi-agent-competition2
 END:VEVENT
 END:VCALENDAR

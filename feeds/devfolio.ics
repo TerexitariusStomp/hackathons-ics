@@ -95,15 +95,6 @@ LOCATION:TBA
 URL:https://techacks05.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] GOA BUILDATHON 27 — build window
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270118
-UID:hack-devfolio-devfolio-goa-buildathon-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://goa-buildathon.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] HACK 6.0 — build window
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270125
@@ -120,24 +111,6 @@ UID:hack-devfolio-devfolio-hack-with-gdg-s4-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://hack-with-gdg-s4.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Health Hackathon 3.0 — build window
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270130
-UID:hack-devfolio-devfolio-health-hackathon-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://health-hackathon.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Hacksprint 3.0 — build window
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270131
-UID:hack-devfolio-devfolio-hacksprint-3-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://hacksprint-3.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Innerve 11.0 — build window

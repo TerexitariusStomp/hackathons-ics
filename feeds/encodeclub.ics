@@ -126,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Encode: FLUX: In Production — build window
 DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261217
 UID:hack-encode-bfl-flux-in-production-window@hackathons-ics
 DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
 LOCATION:Online
