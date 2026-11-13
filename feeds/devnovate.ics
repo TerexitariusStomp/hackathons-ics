@@ -62,26 +62,6 @@ LOCATION:Microsoft Office \\\, New Delhi
 URL:https://devnovate.co/event/hack-with-delhi-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Homingo Hack Days: Online AI Hackathon — build window
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261207
-UID:hack-devnovate-devnovate-6ace4f7ee5f915e578430c7f-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:Online
-URL:https://devnovate.co/event/homingo-hack-days-online-ai-hackathon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Homingo Hack Days: Online AI Hackathon registratio
- n
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-UID:hack-devnovate-devnovate-6ace4f7ee5f915e578430c7f-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:Online
-URL:https://devnovate.co/event/homingo-hack-days-online-ai-hackathon
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] DESIGNX 24 — build window
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261203
