@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — ethglobal
 BEGIN:VEVENT
-SUMMARY:[NEW] ETHGlobal: ETHGlobal Lisbon 2027 — build window
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:hack-ethglobal-lisbon2027-window@hackathons-ics
-DESCRIPTION:Tags: web3 · Source: ethglobal
-LOCATION:Lisbon\\\, Portugal
-URL:https://ethglobal.com/events/lisbon2027
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] ETHGlobal: ETHGlobal Cannes 2027 — build window
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270417

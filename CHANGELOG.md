@@ -1,3 +1,65 @@
+## 2026-11-14
+
+### Removed (1)
+- ethglobal-lisbon2027
+
+### Rescheduled (151)
+- unstop-unstop-1780735
+- unstop-unstop-1735451
+- unstop-unstop-1781449
+- unstop-unstop-1743206
+- unstop-unstop-1800324
+- unstop-unstop-1793796
+- unstop-unstop-1800629
+- unstop-unstop-1799765
+- unstop-unstop-1774417
+- unstop-unstop-1761846
+- unstop-unstop-1764188
+- unstop-unstop-1746232
+- unstop-unstop-1805946
+- unstop-unstop-1771785
+- unstop-unstop-1803074
+- unstop-unstop-1771511
+- unstop-unstop-1780048
+- unstop-unstop-1802400
+- unstop-unstop-1764461
+- unstop-unstop-1798470
+- unstop-unstop-1771952
+- unstop-unstop-1794890
+- unstop-unstop-1745778
+- unstop-unstop-1773246
+- unstop-unstop-1790680
+- unstop-unstop-1803912
+- unstop-unstop-1773120
+- unstop-unstop-1799776
+- unstop-unstop-1790028
+- unstop-unstop-1791410
+- unstop-unstop-1771949
+- unstop-unstop-1772496
+- unstop-unstop-1799091
+- unstop-unstop-1764167
+- unstop-unstop-1764454
+- unstop-unstop-1769646
+- unstop-unstop-1771537
+- unstop-unstop-1794889
+- unstop-unstop-1762305
+- unstop-unstop-1798287
+- unstop-unstop-1770690
+- unstop-unstop-1786997
+- unstop-unstop-1775867
+- unstop-unstop-1799475
+- unstop-unstop-1768041
+- unstop-unstop-1798677
+- unstop-unstop-1783515
+- unstop-unstop-1742226
+- unstop-unstop-1763620
+- unstop-unstop-1807297
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
 ## 2026-11-13
 
 ### Added (14)
