@@ -158,6 +158,15 @@ LOCATION:TBA
 URL:https://hack-nexus.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] doubleSlash 5.0 — build window
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://doubleslash5.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] Diversion 2k27 — build window
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270308
