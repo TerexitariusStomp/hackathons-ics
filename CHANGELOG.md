@@ -1,5 +1,89 @@
 ## 2026-11-14
 
+### Added (11)
+- devfolio-devfolio-goa-buildathon
+- devfolio-devfolio-hacksprint-3
+- devfolio-devfolio-health-hackathon
+- devnovate-devnovate-6ace4f7ee5f915e578430c7f
+- unstop-unstop-1777504
+- unstop-unstop-1779479
+- unstop-unstop-1780955
+- unstop-unstop-1781454
+- unstop-unstop-1800857
+- unstop-unstop-1801378
+- unstop-unstop-1810554
+
+### Removed (10)
+- unstop-unstop-1765493
+- unstop-unstop-1769121
+- unstop-unstop-1770690
+- unstop-unstop-1771084
+- unstop-unstop-1778597
+- unstop-unstop-1783135
+- unstop-unstop-1784631
+- unstop-unstop-1789849
+- unstop-unstop-1790680
+- unstop-unstop-1792269
+
+### Rescheduled (141)
+- unstop-unstop-1764469
+- unstop-unstop-1793392
+- unstop-unstop-1805946
+- unstop-unstop-1794890
+- unstop-unstop-1794529
+- unstop-unstop-1791313
+- unstop-unstop-1782949
+- unstop-unstop-1743206
+- unstop-unstop-1764471
+- unstop-unstop-1801814
+- unstop-unstop-1799790
+- unstop-unstop-1780735
+- unstop-unstop-1772496
+- unstop-unstop-1799091
+- unstop-unstop-1778710
+- unstop-unstop-1764470
+- unstop-unstop-1784554
+- unstop-unstop-1765597
+- unstop-unstop-1763060
+- unstop-unstop-1771511
+- unstop-unstop-1773211
+- unstop-unstop-1799758
+- unstop-unstop-1775207
+- unstop-unstop-1802089
+- unstop-unstop-1800324
+- unstop-unstop-1791410
+- unstop-unstop-1775217
+- unstop-unstop-1763620
+- unstop-unstop-1771961
+- unstop-unstop-1805107
+- unstop-unstop-1730263
+- unstop-unstop-1764450
+- unstop-unstop-1768041
+- unstop-unstop-1745979
+- unstop-unstop-1764446
+- unstop-unstop-1774876
+- unstop-unstop-1800629
+- unstop-unstop-1799179
+- unstop-unstop-1800891
+- unstop-unstop-1746142
+- unstop-unstop-1751032
+- unstop-unstop-1773229
+- unstop-unstop-1781358
+- unstop-unstop-1806984
+- unstop-unstop-1745778
+- unstop-unstop-1792025
+- unstop-unstop-1761846
+- unstop-unstop-1793030
+- unstop-unstop-1799475
+- unstop-unstop-1798287
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-14
+
 ### Removed (1)
 - ethglobal-lisbon2027
 
