@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devpost
 BEGIN:VEVENT
-SUMMARY:[NEW] DSH Hacks V2 ($100k+ in prizes!) — build window
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20261116
-UID:hack-devpost-devpost-30500-window@hackathons-ics
-DESCRIPTION:Source: devpost
-LOCATION:Online
-URL:https://dsh-hacks-v2.devpost.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Meta VR Start Developer Competition 2026 — build window
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261119
@@ -67,6 +58,15 @@ UID:hack-devpost-devpost-31083-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
 URL:https://qnx.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Open Agentic Web Challenge — build window
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20270112
+UID:hack-devpost-devpost-32026-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://cognizant-agenticweb.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Reddit’s Game of the Day Hackathon — build window

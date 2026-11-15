@@ -113,24 +113,6 @@ LOCATION:Online
 URL:https://vision.hack2skill.com/event/watchfacedesignchallenge2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Startup Buildathon India 2026 — build window
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261116
-UID:hack-hack2skill-h2s-6adb4af80d89d95c54260809-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/startupbuildathon2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Startup Buildathon India 2026 registration
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-UID:hack-hack2skill-h2s-6adb4af80d89d95c54260809-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/startupbuildathon2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Build with Google Gemini — build window
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261204

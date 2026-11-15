@@ -101,6 +101,25 @@ LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Hack With Hyderabad 4.0 — build window
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:Microsoft Office Hyderabad
+URL:https://devnovate.co/event/hack-with-hyderabad-40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Hack With Hyderabad 4.0 registration
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:Microsoft Office Hyderabad
+URL:https://devnovate.co/event/hack-with-hyderabad-40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] DotSlash 10.0 — build window
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270201
