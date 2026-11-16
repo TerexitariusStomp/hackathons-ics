@@ -24,6 +24,27 @@ LOCATION:VIRTUAL
 URL:https://devnovate.co/event/troogue-talent-hackathon
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 — build 
+ window
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261206
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 
+ registration
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] PIXEL WARS X26 — build window
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
@@ -60,26 +81,6 @@ UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
 LOCATION:Microsoft Office \\\, New Delhi
 URL:https://devnovate.co/event/hack-with-delhi-40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Homingo Hack Days: Online AI Hackathon — build window
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261207
-UID:hack-devnovate-devnovate-6ace4f7ee5f915e578430c7f-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:Online
-URL:https://devnovate.co/event/homingo-hack-days-online-ai-hackathon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Homingo Hack Days: Online AI Hackathon registratio
- n
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-UID:hack-devnovate-devnovate-6ace4f7ee5f915e578430c7f-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:Online
-URL:https://devnovate.co/event/homingo-hack-days-online-ai-hackathon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DESIGNX 24 — build window

@@ -14,15 +14,6 @@ LOCATION:Online
 URL:https://start-developer-competition-26.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Arbiter Hacks V1 — build window
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261222
-UID:hack-devpost-devpost-30789-window@hackathons-ics
-DESCRIPTION:Source: devpost
-LOCATION:Online
-URL:https://arbiter-hacks-v1.devpost.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] UGREEN Hackathon 2026 on AI NAS — build window
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261117
@@ -58,6 +49,15 @@ UID:hack-devpost-devpost-31083-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
 URL:https://qnx.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Deck the Pixels — build window
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261208
+UID:hack-devpost-devpost-31973-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://deckthepixels.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Open Agentic Web Challenge — build window
