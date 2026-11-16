@@ -1,5 +1,79 @@
 ## 2026-11-16
 
+### Added (6)
+- devpost-devpost-30789
+- dorahacks-coinmarketcap-api-202611
+- encode-bfl-flux-in-production
+- unstop-unstop-1791410
+- unstop-unstop-1792152
+- unstop-unstop-1812368
+
+### Removed (5)
+- devnovate-devnovate-6af961a4eba10569899b4318
+- devpost-devpost-31552
+- dorahacks-dreamdex-perps-bounty
+- unstop-unstop-1779479
+- unstop-unstop-1792758
+
+### Rescheduled (134)
+- unstop-unstop-1801378
+- unstop-unstop-1805946
+- unstop-unstop-1771949
+- unstop-unstop-1772496
+- unstop-unstop-1764445
+- unstop-unstop-1811493
+- unstop-unstop-1801200
+- unstop-unstop-1806984
+- unstop-unstop-1794479
+- unstop-unstop-1800395
+- unstop-unstop-1772164
+- unstop-unstop-1797543
+- unstop-unstop-1799281
+- unstop-unstop-1809486
+- unstop-unstop-1799179
+- unstop-unstop-1759619
+- unstop-unstop-1774417
+- unstop-unstop-1788753
+- unstop-unstop-1780955
+- unstop-unstop-1777504
+- unstop-unstop-1763620
+- unstop-unstop-1764450
+- unstop-unstop-1745778
+- unstop-unstop-1652247
+- unstop-unstop-1786992
+- unstop-unstop-1783515
+- unstop-unstop-1799509
+- unstop-unstop-1807297
+- unstop-unstop-1763060
+- unstop-unstop-1793392
+- unstop-unstop-1775867
+- unstop-unstop-1811016
+- unstop-unstop-1800629
+- unstop-unstop-1782514
+- unstop-unstop-1811085
+- unstop-unstop-1765597
+- unstop-unstop-1764471
+- unstop-unstop-1803074
+- unstop-unstop-1799475
+- unstop-unstop-1764188
+- unstop-unstop-1782685
+- unstop-unstop-1794529
+- unstop-unstop-1768100
+- unstop-unstop-1773120
+- unstop-unstop-1782949
+- unstop-unstop-1794889
+- unstop-unstop-1799765
+- unstop-unstop-1811240
+- unstop-unstop-1762305
+- unstop-unstop-1761846
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-16
+
 ### Added (3)
 - devnovate-devnovate-6af961a4eba10569899b4318
 - devpost-devpost-31973

@@ -41,24 +41,6 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/promptwarsdelhincr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Virtual: PromptWars — build window
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20261201
-UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:Online
-URL:https://vision.hack2skill.com/event/pwvirtual1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Virtual: PromptWars registration
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:Online
-URL:https://vision.hack2skill.com/event/pwvirtual1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Builder Pop-Up — build window
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261127
@@ -147,6 +129,24 @@ UID:hack-hack2skill-h2s-6aeb0aafdffa09e0829f7797-reg@hackathons-ics
 DESCRIPTION:Source: hack2skill
 LOCATION:TBA
 URL:https://vision.hack2skill.com/event/innodata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Virtual: PromptWars — build window
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261130
+UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/pwvirtual1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Virtual: PromptWars registration
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:hack-hack2skill-h2s-69cca4b245645a10e1172e76-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/pwvirtual1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] PromptWars x Sphoorthy Engineering College — build window

@@ -23,15 +23,6 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/2418
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] dreamDEX Perps Builder Bounty — build window
-DTSTART:20261019T120000Z
-DTEND:20261115T143000Z
-UID:hack-dorahacks-dreamdex-perps-bounty-window@hackathons-ics
-DESCRIPTION:Tags: web3 · Source: dorahacks
-LOCATION:Online
-URL:https://dorahacks.io/hackathon/dreamdex-perps-bounty
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Aevum Builder Challenge #1 — build window
 DTSTART:20261104T060000Z
 DTEND:20261211T080000Z
@@ -48,6 +39,15 @@ UID:hack-dorahacks-reactive-omni-buildathon-window@hackathons-ics
 DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
 URL:https://dorahacks.io/hackathon/reactive-omni-buildathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Build with CMC: API Hackathon (Plushie) — build window
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261211
+UID:hack-dorahacks-coinmarketcap-api-202611-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/coinmarketcap-api-202611
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Agent Arena Competition: Evidence Mining — build window

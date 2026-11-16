@@ -14,13 +14,13 @@ LOCATION:Online
 URL:https://start-developer-competition-26.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] UGREEN Hackathon 2026 on AI NAS — build window
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261117
-UID:hack-devpost-devpost-31552-window@hackathons-ics
+SUMMARY:[NEW] Arbiter Hacks V1 — build window
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261222
+UID:hack-devpost-devpost-30789-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
-URL:https://ugreenhackathon.devpost.com/
+URL:https://arbiter-hacks-v1.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Codegeist 2026: Build with context. Ship with confidence. 
