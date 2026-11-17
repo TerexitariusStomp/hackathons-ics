@@ -58,4 +58,14 @@ DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
 URL:https://dorahacks.io/hackathon/delphi-agent-competition2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Heads Up: Even Realities Hackathon by TVM Ventures & Daos Hu
+ b — build window
+DTSTART:20261118T080000Z
+DTEND:20261129T195900Z
+UID:hack-dorahacks-even-realities-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/even-realities
+END:VEVENT
 END:VCALENDAR

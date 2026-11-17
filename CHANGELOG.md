@@ -1,5 +1,81 @@
 ## 2026-11-17
 
+### Added (10)
+- devfolio-devfolio-makerspark
+- devnovate-devnovate-6afc68b7eba1056989a3c20c
+- devnovate-devnovate-6afc6a1beba1056989a455f0
+- dorahacks-even-realities
+- lablab-agent-stack-48-ai-agents-hackathon
+- unstop-unstop-1794480
+- unstop-unstop-1810370
+- unstop-unstop-1811349
+- unstop-unstop-1814002
+- unstop-unstop-1814263
+
+### Removed (3)
+- devfolio-devfolio-diversion2k27
+- lablab-amd-developer-hackathon-act-iii
+- unstop-unstop-1802400
+
+### Rescheduled (136)
+- unstop-unstop-1799758
+- unstop-unstop-1810268
+- unstop-unstop-1764446
+- unstop-unstop-1793796
+- unstop-unstop-1777504
+- unstop-unstop-1773675
+- unstop-unstop-1799765
+- unstop-unstop-1781454
+- unstop-unstop-1793341
+- unstop-unstop-1730263
+- unstop-unstop-1780048
+- unstop-unstop-1759619
+- unstop-unstop-1764469
+- unstop-unstop-1812368
+- unstop-unstop-1746234
+- unstop-unstop-1799281
+- unstop-unstop-1763060
+- unstop-unstop-1791574
+- unstop-unstop-1799509
+- unstop-unstop-1800924
+- unstop-unstop-1801200
+- unstop-unstop-1772164
+- unstop-unstop-1763561
+- unstop-unstop-1782949
+- unstop-unstop-1772496
+- unstop-unstop-1799762
+- unstop-unstop-1781078
+- unstop-unstop-1790028
+- unstop-unstop-1809486
+- unstop-unstop-1807596
+- unstop-unstop-1811085
+- unstop-unstop-1743206
+- unstop-unstop-1780955
+- unstop-unstop-1764471
+- unstop-unstop-1764167
+- unstop-unstop-1742226
+- unstop-unstop-1745778
+- unstop-unstop-1799761
+- unstop-unstop-1792025
+- unstop-unstop-1772235
+- encode-solana-hackathon-2026
+- unstop-unstop-1771992
+- unstop-unstop-1806984
+- unstop-unstop-1764470
+- unstop-unstop-1771952
+- unstop-unstop-1782685
+- unstop-unstop-1771511
+- unstop-unstop-1764465
+- unstop-unstop-1794522
+- unstop-unstop-1786992
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-17
+
 ### Added (2)
 - devnovate-devnovate-6af961a4eba10569899b4318
 - unstop-unstop-1779479

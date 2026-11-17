@@ -45,6 +45,25 @@ LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
 URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] HireveinAI Ideathon 2026 — build window
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20270116
+UID:hack-devnovate-devnovate-6afc68b7eba1056989a3c20c-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:Remote
+URL:https://devnovate.co/event/hireveinai-ideathon-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: HireveinAI Ideathon 2026 registration
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+UID:hack-devnovate-devnovate-6afc68b7eba1056989a3c20c-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:Remote
+URL:https://devnovate.co/event/hireveinai-ideathon-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] PIXEL WARS X26 — build window
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
@@ -100,6 +119,25 @@ UID:hack-devnovate-devnovate-6af538c8eba10569892694b7-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
 LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] wHACKiest — build window
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+UID:hack-devnovate-devnovate-6afc6a1beba1056989a455f0-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:Ramaiah Institute of Technology
+URL:https://devnovate.co/event/whackiest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: wHACKiest registration
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:hack-devnovate-devnovate-6afc6a1beba1056989a455f0-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:Ramaiah Institute of Technology
+URL:https://devnovate.co/event/whackiest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack With Hyderabad 4.0 — build window

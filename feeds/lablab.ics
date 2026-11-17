@@ -14,15 +14,6 @@ LOCATION:Online
 URL:https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] AMD Developer Hackathon: ACT III — build window
-DTSTART:20261012T150000Z
-DTEND:20261018T103000Z
-UID:hack-lablab-amd-developer-hackathon-act-iii-window@hackathons-ics
-DESCRIPTION:Tags: ai · Source: lablab
-LOCATION:Online
-URL:https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Vultr: Agent Rush Hackathon — build window
 DTSTART:20261103T160000Z
 DTEND:20261108T230000Z
@@ -30,5 +21,15 @@ UID:hack-lablab-vultr-hackathon-window@hackathons-ics
 DESCRIPTION:Tags: ai · Source: lablab
 LOCATION:Online
 URL:https://lablab.build/ai-hackathons/vultr-hackathon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] AGENT STACK 48 - AI Agents & Tools Hackathon — build windo
+ w
+DTSTART:20261211T160000Z
+DTEND:20261213T150000Z
+UID:hack-lablab-agent-stack-48-ai-agents-hackathon-window@hackathons-ics
+DESCRIPTION:Tags: ai · Source: lablab
+LOCATION:Online
+URL:https://lablab.build/ai-hackathons/agent-stack-48-ai-agents-hackathon
 END:VEVENT
 END:VCALENDAR

@@ -59,6 +59,15 @@ LOCATION:TBA
 URL:https://clash-of-commits.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] MakerSpark — build window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+UID:hack-devfolio-devfolio-makerspark-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://makerspark.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] hackodisha-6.0 — build window
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
@@ -165,14 +174,5 @@ UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://doubleslash5.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Diversion 2k27 — build window
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270308
-UID:hack-devfolio-devfolio-diversion2k27-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://diversion2k27.devfolio.co
 END:VEVENT
 END:VCALENDAR
