@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — ethglobal
 BEGIN:VEVENT
-SUMMARY:[NEW] ETHGlobal: ETHGlobal Cannes 2027 — build window
+SUMMARY:ETHGlobal: ETHGlobal Cannes 2027 — build window
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270417
 UID:hack-ethglobal-cannes2027-window@hackathons-ics
@@ -14,7 +14,7 @@ LOCATION:Cannes\\\, France
 URL:https://ethglobal.com/events/cannes2027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] ETHGlobal: ETHGlobal New York 2027 — build window
+SUMMARY:ETHGlobal: ETHGlobal New York 2027 — build window
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270617
 UID:hack-ethglobal-newyork2027-window@hackathons-ics
@@ -23,7 +23,7 @@ LOCATION:New York City\\\, United States
 URL:https://ethglobal.com/events/newyork2027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] ETHGlobal: ETHGlobal Tokyo 2027 — build window
+SUMMARY:ETHGlobal: ETHGlobal Tokyo 2027 — build window
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270826
 UID:hack-ethglobal-tokyo2027-window@hackathons-ics

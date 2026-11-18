@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devnovate
 BEGIN:VEVENT
-SUMMARY:[NEW] Troogue Talent Hackathon — build window
+SUMMARY:Troogue Talent Hackathon — build window
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261201
 UID:hack-devnovate-devnovate-6ada4628e5f915e57849e221-window@hackathons-ic
@@ -15,7 +15,7 @@ LOCATION:VIRTUAL
 URL:https://devnovate.co/event/troogue-talent-hackathon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Troogue Talent Hackathon registration
+SUMMARY:DEADLINE: Troogue Talent Hackathon registration
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 UID:hack-devnovate-devnovate-6ada4628e5f915e57849e221-reg@hackathons-ics
@@ -64,7 +64,7 @@ LOCATION:Remote
 URL:https://devnovate.co/event/hireveinai-ideathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] PIXEL WARS X26 — build window
+SUMMARY:PIXEL WARS X26 — build window
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 UID:hack-devnovate-devnovate-6ae6d6d939e66556938c412a-window@hackathons-ic
@@ -74,7 +74,7 @@ LOCATION:Remote
 URL:https://devnovate.co/event/pixel-wars-x26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: PIXEL WARS X26 registration
+SUMMARY:DEADLINE: PIXEL WARS X26 registration
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 UID:hack-devnovate-devnovate-6ae6d6d939e66556938c412a-reg@hackathons-ics
@@ -83,7 +83,7 @@ LOCATION:Remote
 URL:https://devnovate.co/event/pixel-wars-x26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack With Delhi 4.0 — build window
+SUMMARY:Hack With Delhi 4.0 — build window
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-window@hackathons-ic
@@ -93,7 +93,7 @@ LOCATION:Microsoft Office \\\, New Delhi
 URL:https://devnovate.co/event/hack-with-delhi-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hack With Delhi 4.0 registration
+SUMMARY:DEADLINE: Hack With Delhi 4.0 registration
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 UID:hack-devnovate-devnovate-6adb8408e5f915e578b0479b-reg@hackathons-ics
@@ -159,7 +159,7 @@ LOCATION:Microsoft Office Hyderabad
 URL:https://devnovate.co/event/hack-with-hyderabad-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DotSlash 10.0 — build window
+SUMMARY:DotSlash 10.0 — build window
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270201
 UID:hack-devnovate-devnovate-6a61093bf04edb6113ce8e7e-window@hackathons-ic
@@ -169,7 +169,7 @@ LOCATION:SVNIT Campus\\\, SVNIT Surat
 URL:https://devnovate.co/event/dotslash-100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: DotSlash 10.0 registration
+SUMMARY:DEADLINE: DotSlash 10.0 registration
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 UID:hack-devnovate-devnovate-6a61093bf04edb6113ce8e7e-reg@hackathons-ics

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — encodeclub
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Solana Hackathon 2026 — build window
+SUMMARY:Encode: Solana Hackathon 2026 — build window
 DTSTART:20261011T230000Z
 DTEND:20261119T235900Z
 UID:hack-encode-solana-hackathon-2026-window@hackathons-ics
@@ -14,7 +14,7 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Solana Hackathon 2026 registration
+SUMMARY:DEADLINE: Encode: Solana Hackathon 2026 registration
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 UID:hack-encode-solana-hackathon-2026-reg@hackathons-ics
@@ -23,7 +23,7 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Solana Hackathon 2026 submissions
+SUMMARY:DEADLINE: Encode: Solana Hackathon 2026 submissions
 DTSTART:20261109T115900Z
 DTEND:20261109T125900Z
 UID:hack-encode-solana-hackathon-2026-sub@hackathons-ics
@@ -32,7 +32,7 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Encode London Hackathon 2026 — build window
+SUMMARY:Encode: Encode London Hackathon 2026 — build window
 DTSTART:20261023T090000Z
 DTEND:20261025T163000Z
 UID:hack-encode-encode-london-2026-window@hackathons-ics
@@ -41,7 +41,7 @@ LOCATION:In-Person
 URL:https://www.encodeclub.com/programmes/encode-london-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Encode London Hackathon 2026 registration
+SUMMARY:DEADLINE: Encode: Encode London Hackathon 2026 registration
 DTSTART:20261025T163000Z
 DTEND:20261025T173000Z
 UID:hack-encode-encode-london-2026-reg@hackathons-ics
@@ -50,7 +50,7 @@ LOCATION:In-Person
 URL:https://www.encodeclub.com/programmes/encode-london-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Encode London Hackathon 2026 submissions
+SUMMARY:DEADLINE: Encode: Encode London Hackathon 2026 submissions
 DTSTART:20261025T163000Z
 DTEND:20261025T173000Z
 UID:hack-encode-encode-london-2026-sub@hackathons-ics
@@ -59,7 +59,7 @@ LOCATION:In-Person
 URL:https://www.encodeclub.com/programmes/encode-london-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Concordium Trusted Agents Hackathon — build window
+SUMMARY:Encode: Concordium Trusted Agents Hackathon — build window
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261212
 UID:hack-encode-concordium-trusted-agents-hackathon-window@hackathons-ics
@@ -69,8 +69,7 @@ URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
  hon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Concordium Trusted Agents Hackathon regist
- ration
+SUMMARY:DEADLINE: Encode: Concordium Trusted Agents Hackathon registration
 DTSTART:20261206T235900Z
 DTEND:20261207T005900Z
 UID:hack-encode-concordium-trusted-agents-hackathon-reg@hackathons-ics
@@ -80,8 +79,7 @@ URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
  hon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Concordium Trusted Agents Hackathon submis
- sions
+SUMMARY:DEADLINE: Encode: Concordium Trusted Agents Hackathon submissions
 DTSTART:20261206T235900Z
 DTEND:20261207T005900Z
 UID:hack-encode-concordium-trusted-agents-hackathon-sub@hackathons-ics
@@ -91,8 +89,8 @@ URL:https://www.encodeclub.com/programmes/concordium-trusted-agents-hackat
  hon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: Build your content-led GTM motion: Hackathon — bui
- ld window
+SUMMARY:Encode: Build your content-led GTM motion: Hackathon — build win
+ dow
 DTSTART:20261110T180000Z
 DTEND:20261110T213000Z
 UID:hack-encode-flywheel-content-led-gtm-hackathon-window@hackathons-ics
@@ -102,8 +100,8 @@ URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
  on
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Build your content-led GTM motion: Hackath
- on registration
+SUMMARY:DEADLINE: Encode: Build your content-led GTM motion: Hackathon reg
+ istration
 DTSTART:20261110T213000Z
 DTEND:20261110T223000Z
 UID:hack-encode-flywheel-content-led-gtm-hackathon-reg@hackathons-ics
@@ -113,8 +111,8 @@ URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
  on
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: Build your content-led GTM motion: Hackath
- on submissions
+SUMMARY:DEADLINE: Encode: Build your content-led GTM motion: Hackathon sub
+ missions
 DTSTART:20261110T213000Z
 DTEND:20261110T223000Z
 UID:hack-encode-flywheel-content-led-gtm-hackathon-sub@hackathons-ics

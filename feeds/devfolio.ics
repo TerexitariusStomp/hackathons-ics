@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devfolio
 BEGIN:VEVENT
-SUMMARY:[NEW] Founders' House Kolkata — build window
+SUMMARY:Founders' House Kolkata — build window
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261125
 UID:hack-devfolio-devfolio-founders-house-kolkata-window@hackathons-ics
@@ -14,7 +14,7 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Lean In Hacks 8.0 — build window
+SUMMARY:Lean In Hacks 8.0 — build window
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
 UID:hack-devfolio-devfolio-lean-in-hacks-8-window@hackathons-ics
@@ -32,7 +32,7 @@ LOCATION:Online
 URL:https://codefestthon.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Code N Mod — build window
+SUMMARY:Code N Mod — build window
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 UID:hack-devfolio-devfolio-codenmod-window@hackathons-ics
@@ -41,7 +41,7 @@ LOCATION:TBA
 URL:https://codenmod.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DevNexus 2.0 — build window
+SUMMARY:DevNexus 2.0 — build window
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
 UID:hack-devfolio-devfolio-devnexus2-window@hackathons-ics
@@ -50,7 +50,7 @@ LOCATION:TBA
 URL:https://devnexus2.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Clash of Commits — build window
+SUMMARY:Clash of Commits — build window
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
 UID:hack-devfolio-devfolio-clash-of-commits-window@hackathons-ics
@@ -68,7 +68,7 @@ LOCATION:TBA
 URL:https://makerspark.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] hackodisha-6.0 — build window
+SUMMARY:hackodisha-6.0 — build window
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
 UID:hack-devfolio-devfolio-hackodisha-6a-window@hackathons-ics
@@ -77,7 +77,7 @@ LOCATION:Online
 URL:https://hackodisha-6a.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack For Tomorrow 2026 — build window
+SUMMARY:Hack For Tomorrow 2026 — build window
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270104
 UID:hack-devfolio-devfolio-hft2026-window@hackathons-ics
@@ -86,7 +86,7 @@ LOCATION:TBA
 URL:https://hft2026.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] haxfinity — build window
+SUMMARY:haxfinity — build window
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270105
 UID:hack-devfolio-devfolio-haxfinity-window@hackathons-ics
@@ -95,7 +95,7 @@ LOCATION:TBA
 URL:https://haxfinity.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Techacks 5.0 — build window
+SUMMARY:Techacks 5.0 — build window
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270117
 UID:hack-devfolio-devfolio-techacks05-window@hackathons-ics
@@ -113,7 +113,7 @@ LOCATION:TBA
 URL:https://goa-buildathon.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] HACK 6.0 — build window
+SUMMARY:HACK 6.0 — build window
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270125
 UID:hack-devfolio-devfolio-hack-1736-window@hackathons-ics
@@ -122,7 +122,7 @@ LOCATION:TBA
 URL:https://hack-1736.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] HACK WITH GDG S4 — build window
+SUMMARY:HACK WITH GDG S4 — build window
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270125
 UID:hack-devfolio-devfolio-hack-with-gdg-s4-window@hackathons-ics
@@ -140,7 +140,7 @@ LOCATION:TBA
 URL:https://health-hackathon.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Innerve 11.0 — build window
+SUMMARY:Innerve 11.0 — build window
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270131
 UID:hack-devfolio-devfolio-innerve-11-window@hackathons-ics
@@ -149,7 +149,7 @@ LOCATION:TBA
 URL:https://innerve-11.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack Nexus 2027 — build window
+SUMMARY:Hack Nexus 2027 — build window
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 UID:hack-devfolio-devfolio-hack-nexus-window@hackathons-ics

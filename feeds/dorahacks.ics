@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — dorahacks
 BEGIN:VEVENT
-SUMMARY:[NEW] BCH BLAZE 2026 — build window
+SUMMARY:BCH BLAZE 2026 — build window
 DTSTART:20261010T120000Z
 DTEND:20261122T140000Z
 UID:hack-dorahacks-bchblaze2026-window@hackathons-ics
@@ -14,7 +14,7 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/bchblaze2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Cortensor Hackathon #5 — build window
+SUMMARY:Cortensor Hackathon #5 — build window
 DTSTART:20261016T070000Z
 DTEND:20261219T075900Z
 UID:hack-dorahacks-2418-window@hackathons-ics
@@ -23,7 +23,7 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/2418
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Aevum Builder Challenge #1 — build window
+SUMMARY:Aevum Builder Challenge #1 — build window
 DTSTART:20261104T060000Z
 DTEND:20261211T080000Z
 UID:hack-dorahacks-qday-window@hackathons-ics
@@ -32,7 +32,7 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/qday
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Reactive Omni Buildathon — build window
+SUMMARY:Reactive Omni Buildathon — build window
 DTSTART:20261104T120000Z
 DTEND:20261205T200000Z
 UID:hack-dorahacks-reactive-omni-buildathon-window@hackathons-ics
