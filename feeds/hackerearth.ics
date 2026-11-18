@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — hackerearth
 BEGIN:VEVENT
-SUMMARY:IBM Z Day — build window
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261119
-UID:hack-hackerearth-he-ibm-z-day-window@hackathons-ics
-DESCRIPTION:Source: hackerearth
-LOCATION:Online
-URL:https://www.hackerearth.com/challenges/hackathon/ibm-z-day/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ContextCon: Remember Everything — build window
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270118

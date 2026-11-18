@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devpost
 BEGIN:VEVENT
-SUMMARY:Meta VR Start Developer Competition 2026 — build window
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261119
-UID:hack-devpost-devpost-31024-window@hackathons-ics
+SUMMARY:[NEW] Code for Humanity — build window
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20270116
+UID:hack-devpost-devpost-30740-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
-URL:https://start-developer-competition-26.devpost.com/
+URL:https://code-for-humanity.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Arbiter Hacks V1 — build window
