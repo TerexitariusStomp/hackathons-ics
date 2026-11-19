@@ -24,27 +24,6 @@ LOCATION:VIRTUAL
 URL:https://devnovate.co/event/troogue-talent-hackathon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 — build 
- window
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261206
-UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
-URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 
- registration
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
-URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] HireveinAI Ideathon 2026 — build window
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261226
@@ -64,23 +43,23 @@ LOCATION:Remote
 URL:https://devnovate.co/event/hireveinai-ideathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PIXEL WARS X26 — build window
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261122
-UID:hack-devnovate-devnovate-6ae6d6d939e66556938c412a-window@hackathons-ic
+SUMMARY:[NEW] HACKNOVA 2026 — build window
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-window@hackathons-ic
  s
 DESCRIPTION:Source: devnovate
-LOCATION:Remote
-URL:https://devnovate.co/event/pixel-wars-x26
+LOCATION:SDGI Global University
+URL:https://devnovate.co/event/hacknova-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DEADLINE: PIXEL WARS X26 registration
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-UID:hack-devnovate-devnovate-6ae6d6d939e66556938c412a-reg@hackathons-ics
+SUMMARY:[NEW] DEADLINE: HACKNOVA 2026 registration
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
-LOCATION:Remote
-URL:https://devnovate.co/event/pixel-wars-x26
+LOCATION:SDGI Global University
+URL:https://devnovate.co/event/hacknova-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hack With Delhi 4.0 — build window
@@ -102,7 +81,7 @@ LOCATION:Microsoft Office \\\, New Delhi
 URL:https://devnovate.co/event/hack-with-delhi-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DESIGNX 24 — build window
+SUMMARY:DESIGNX 24 — build window
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261203
 UID:hack-devnovate-devnovate-6af538c8eba10569892694b7-window@hackathons-ic
@@ -112,7 +91,7 @@ LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: DESIGNX 24 registration
+SUMMARY:DEADLINE: DESIGNX 24 registration
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 UID:hack-devnovate-devnovate-6af538c8eba10569892694b7-reg@hackathons-ics
