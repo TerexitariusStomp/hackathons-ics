@@ -14,15 +14,6 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lean In Hacks 8.0 — build window
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261123
-UID:hack-devfolio-devfolio-lean-in-hacks-8-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://lean-in-hacks-8.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] CODEFESTTHON 2026 — build window
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261125
@@ -174,5 +165,14 @@ UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://doubleslash5.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Diversion 2k27 — build window
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+UID:hack-devfolio-devfolio-diversion2k27-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://diversion2k27.devfolio.co
 END:VEVENT
 END:VCALENDAR

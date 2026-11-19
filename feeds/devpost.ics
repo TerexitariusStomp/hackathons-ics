@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devpost
 BEGIN:VEVENT
-SUMMARY:[NEW] Code for Humanity — build window
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20270116
-UID:hack-devpost-devpost-30740-window@hackathons-ics
-DESCRIPTION:Source: devpost
-LOCATION:Online
-URL:https://code-for-humanity.devpost.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] Arbiter Hacks V1 — build window
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261222
@@ -76,5 +67,15 @@ UID:hack-devpost-devpost-31644-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
 URL:https://redditgameofday2026.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Cloud9 x JetBrains: Sky's The Limit Hackathon 2026 — build
+  window
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20270113
+UID:hack-devpost-devpost-31571-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://cloud9.devpost.com/
 END:VEVENT
 END:VCALENDAR

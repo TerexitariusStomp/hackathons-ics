@@ -24,6 +24,27 @@ LOCATION:VIRTUAL
 URL:https://devnovate.co/event/troogue-talent-hackathon
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 — build 
+ window
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261206
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 
+ registration
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] HireveinAI Ideathon 2026 — build window
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261226
@@ -41,25 +62,6 @@ UID:hack-devnovate-devnovate-6afc68b7eba1056989a3c20c-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
 LOCATION:Remote
 URL:https://devnovate.co/event/hireveinai-ideathon-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] HACKNOVA 2026 — build window
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:SDGI Global University
-URL:https://devnovate.co/event/hacknova-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: HACKNOVA 2026 registration
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:SDGI Global University
-URL:https://devnovate.co/event/hacknova-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hack With Delhi 4.0 — build window
