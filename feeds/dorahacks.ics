@@ -50,13 +50,22 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/coinmarketcap-api-202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Agent Arena Competition: Evidence Mining — build window
+SUMMARY:Agent Arena Competition: Evidence Mining — build window
 DTSTART:20261113T160000Z
 DTEND:20261211T170000Z
 UID:hack-dorahacks-delphi-agent-competition2-window@hackathons-ics
 DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
 URL:https://dorahacks.io/hackathon/delphi-agent-competition2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] HSK Chain Horizon Hackathon · Seoul — build window
+DTSTART:20261117T030000Z
+DTEND:20261203T040000Z
+UID:hack-dorahacks-hskchainseoul-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/hskchainseoul
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Heads Up: Even Realities Hackathon by TVM Ventures & Daos Hu

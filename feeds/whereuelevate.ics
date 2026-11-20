@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — whereuelevate
 BEGIN:VEVENT
-SUMMARY:[NEW] Nationwide Case Study Competitions by Grant Thornton Bharat 
- — build window
+SUMMARY:Nationwide Case Study Competitions by Grant Thornton Bharat — bu
+ ild window
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20261207
 UID:hack-whereuelevate-wue-0-window@hackathons-ics
@@ -16,8 +16,8 @@ URL:https://whereuelevate.com/drills/nationwide-case-study-competitions-by
  -grant-thornton-bharat-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Nationwide Case Study Competitions by Grant Thornt
- on Bharat registration
+SUMMARY:DEADLINE: Nationwide Case Study Competitions by Grant Thornton Bha
+ rat registration
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 UID:hack-whereuelevate-wue-0-reg@hackathons-ics
