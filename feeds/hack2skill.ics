@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] HACKNOVATE 8.0 — build window
 DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20270121
 UID:hack-hack2skill-h2s-6afbdfdcdffa09e082d44636-window@hackathons-ics
 DESCRIPTION:Source: hack2skill
 LOCATION:TBA
@@ -159,30 +159,12 @@ URL:https://vision.hack2skill.com/event/hacknovate8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] DEADLINE: HACKNOVATE 8.0 registration
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
 UID:hack-hack2skill-h2s-6afbdfdcdffa09e082d44636-reg@hackathons-ics
 DESCRIPTION:Source: hack2skill
 LOCATION:TBA
 URL:https://vision.hack2skill.com/event/hacknovate8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] HACKATHON '27 — build window
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261216
-UID:hack-hack2skill-h2s-6afc3513dffa09e082d53006-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/prpcemhackathon27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: HACKATHON '27 registration
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-UID:hack-hack2skill-h2s-6afc3513dffa09e082d53006-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/prpcemhackathon27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PromptWars x Sphoorthy Engineering College — build window

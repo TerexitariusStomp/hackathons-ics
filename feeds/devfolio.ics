@@ -14,15 +14,6 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] CODEFESTTHON 2026 — build window
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261125
-UID:hack-devfolio-devfolio-codefestthon-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:Online
-URL:https://codefestthon.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Code N Mod — build window
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
