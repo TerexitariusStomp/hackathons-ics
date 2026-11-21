@@ -64,6 +64,25 @@ LOCATION:Remote
 URL:https://devnovate.co/event/hireveinai-ideathon-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] HACKNOVA 2026 — build window
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:SDGI Global University
+URL:https://devnovate.co/event/hacknova-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: HACKNOVA 2026 registration
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:SDGI Global University
+URL:https://devnovate.co/event/hacknova-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hack With Delhi 4.0 — build window
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261129
@@ -121,23 +140,23 @@ LOCATION:Ramaiah Institute of Technology
 URL:https://devnovate.co/event/whackiest
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] prompt war X Syntax Squad — build window
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-window@hackathons-ic
+SUMMARY:[NEW] BENGALURU BUILDER'S TABLE — build window
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:hack-devnovate-devnovate-6b0181f7eba10569898337ac-window@hackathons-ic
  s
 DESCRIPTION:Source: devnovate
-LOCATION:online 
-URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+LOCATION:Microsoft Office\\\, Bangalore
+URL:https://devnovate.co/event/bengaluru-builders-table
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: prompt war X Syntax Squad registration
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-reg@hackathons-ics
+SUMMARY:[NEW] DEADLINE: BENGALURU BUILDER'S TABLE registration
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+UID:hack-devnovate-devnovate-6b0181f7eba10569898337ac-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
-LOCATION:online 
-URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+LOCATION:Microsoft Office\\\, Bangalore
+URL:https://devnovate.co/event/bengaluru-builders-table
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] Hack With Hyderabad 4.0 — build window
