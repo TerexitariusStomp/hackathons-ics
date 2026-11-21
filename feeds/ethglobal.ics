@@ -5,6 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — ethglobal
 BEGIN:VEVENT
+SUMMARY:[NEW] ETHGlobal: Agentic Markets — build window
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261211
+UID:hack-ethglobal-agenticmarkets-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: ethglobal
+LOCATION:Online
+URL:https://ethglobal.com/events/agenticmarkets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ETHGlobal: ETHGlobal Cannes 2027 — build window
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270417
