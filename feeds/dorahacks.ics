@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — dorahacks
 BEGIN:VEVENT
-SUMMARY:BCH BLAZE 2026 — build window
-DTSTART:20261010T120000Z
-DTEND:20261122T140000Z
-UID:hack-dorahacks-bchblaze2026-window@hackathons-ics
-DESCRIPTION:Tags: web3 · Source: dorahacks
-LOCATION:Online
-URL:https://dorahacks.io/hackathon/bchblaze2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cortensor Hackathon #5 — build window
 DTSTART:20261016T070000Z
 DTEND:20261219T075900Z

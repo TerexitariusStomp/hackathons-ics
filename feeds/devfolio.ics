@@ -23,6 +23,15 @@ LOCATION:TBA
 URL:https://codenmod.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] DevNexus 2.0 — build window
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+UID:hack-devfolio-devfolio-devnexus2-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://devnexus2.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clash of Commits — build window
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
@@ -75,6 +84,15 @@ UID:hack-devfolio-devfolio-haxfinity-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://haxfinity.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Winter of Code 6.0 — build window
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270120
+UID:hack-devfolio-devfolio-woc6-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://woc6.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Techacks 5.0 — build window
@@ -149,21 +167,12 @@ LOCATION:TBA
 URL:https://hacksprint-3.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:doubleSlash 5.0 — build window
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270301
-UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
+SUMMARY:[NEW] HACK2027 — build window
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270220
+UID:hack-devfolio-devfolio-hack2027-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
-URL:https://doubleslash5.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Diversion 2k27 — build window
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270308
-UID:hack-devfolio-devfolio-diversion2k27-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://diversion2k27.devfolio.co
+URL:https://hack2027.devfolio.co
 END:VEVENT
 END:VCALENDAR

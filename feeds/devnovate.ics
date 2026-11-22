@@ -140,6 +140,25 @@ LOCATION:Ramaiah Institute of Technology
 URL:https://devnovate.co/event/whackiest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] prompt war X Syntax Squad — build window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:online 
+URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: prompt war X Syntax Squad registration
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:online 
+URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] BENGALURU BUILDER'S TABLE — build window
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
