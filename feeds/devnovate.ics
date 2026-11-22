@@ -159,7 +159,7 @@ LOCATION:Microsoft Office\\\, Bangalore
 URL:https://devnovate.co/event/bengaluru-builders-table
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack With Hyderabad 4.0 — build window
+SUMMARY:Hack With Hyderabad 4.0 — build window
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-window@hackathons-ic
@@ -169,7 +169,7 @@ LOCATION:Microsoft Office Hyderabad
 URL:https://devnovate.co/event/hack-with-hyderabad-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hack With Hyderabad 4.0 registration
+SUMMARY:DEADLINE: Hack With Hyderabad 4.0 registration
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-reg@hackathons-ics

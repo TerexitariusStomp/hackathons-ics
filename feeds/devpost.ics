@@ -51,7 +51,7 @@ LOCATION:Online
 URL:https://deckthepixels.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Open Agentic Web Challenge — build window
+SUMMARY:Open Agentic Web Challenge — build window
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20270112
 UID:hack-devpost-devpost-32026-window@hackathons-ics

@@ -1,3 +1,14 @@
+## 2026-11-22
+
+### Added (2)
+- devfolio-devfolio-promptwaves
+- unstop-unstop-1822884
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
 ## 2026-11-21
 
 ### Added (18)

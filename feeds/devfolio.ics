@@ -41,6 +41,15 @@ LOCATION:TBA
 URL:https://makerspark.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] promptwaves — build window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261211
+UID:hack-devfolio-devfolio-promptwaves-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:Online
+URL:https://promptwaves.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:hackodisha-6.0 — build window
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214

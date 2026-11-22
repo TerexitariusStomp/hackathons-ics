@@ -581,13 +581,22 @@ URL:https://unstop.com/hackathons/drone-soccer-techkriti27-techkriti-17644
  46
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] ELU Build — build window
+SUMMARY:ELU Build — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1811493-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
 URL:https://unstop.com/hackathons/elubuild-edulinkup-1811493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] ELUCode - 9 — build window
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261128
+UID:hack-unstop-unstop-1822884-window@hackathons-ics
+DESCRIPTION:Source: unstop
+LOCATION:TBA
+URL:https://unstop.com/hackathons/elucode-9-edulinkup-1822884
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] EinoHacks — build window
@@ -1245,7 +1254,7 @@ URL:https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-18142
  63
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Singularity 2.0 — build window
+SUMMARY:Singularity 2.0 — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1755564-window@hackathons-ics
@@ -1389,7 +1398,7 @@ URL:https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-178
  6992
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] The Algo Trading Innovation Challenge — build window
+SUMMARY:The Algo Trading Innovation Challenge — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1811240-window@hackathons-ics

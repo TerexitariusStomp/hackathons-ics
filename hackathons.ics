@@ -534,7 +534,7 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/coinmarketcap-api-202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Open Agentic Web Challenge — build window
+SUMMARY:Open Agentic Web Challenge — build window
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20270112
 UID:hack-devpost-devpost-32026-window@hackathons-ics
@@ -1444,13 +1444,22 @@ URL:https://unstop.com/hackathons/drone-soccer-techkriti27-techkriti-17644
  46
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] ELU Build — build window
+SUMMARY:ELU Build — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1811493-window@hackathons-ics
 DESCRIPTION:Source: unstop
 LOCATION:TBA
 URL:https://unstop.com/hackathons/elubuild-edulinkup-1811493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] ELUCode - 9 — build window
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261128
+UID:hack-unstop-unstop-1822884-window@hackathons-ics
+DESCRIPTION:Source: unstop
+LOCATION:TBA
+URL:https://unstop.com/hackathons/elucode-9-edulinkup-1822884
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] ETHGlobal: Agentic Markets — build window
@@ -2117,7 +2126,7 @@ URL:https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-18142
  63
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Singularity 2.0 — build window
+SUMMARY:Singularity 2.0 — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1755564-window@hackathons-ics
@@ -2261,7 +2270,7 @@ URL:https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-178
  6992
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] The Algo Trading Innovation Challenge — build window
+SUMMARY:The Algo Trading Innovation Challenge — build window
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261128
 UID:hack-unstop-unstop-1811240-window@hackathons-ics
@@ -2436,6 +2445,15 @@ LOCATION:TBA
 URL:https://makerspark.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] promptwaves — build window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261211
+UID:hack-devfolio-devfolio-promptwaves-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:Online
+URL:https://promptwaves.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:hackodisha-6.0 — build window
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
@@ -2474,7 +2492,7 @@ LOCATION:Microsoft Office\\\, Bangalore
 URL:https://devnovate.co/event/bengaluru-builders-table
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hack With Hyderabad 4.0 — build window
+SUMMARY:Hack With Hyderabad 4.0 — build window
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-window@hackathons-ic
@@ -2484,7 +2502,7 @@ LOCATION:Microsoft Office Hyderabad
 URL:https://devnovate.co/event/hack-with-hyderabad-40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hack With Hyderabad 4.0 registration
+SUMMARY:DEADLINE: Hack With Hyderabad 4.0 registration
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 UID:hack-devnovate-devnovate-6af9f527eba1056989ad01d9-reg@hackathons-ics
