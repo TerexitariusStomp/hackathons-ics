@@ -122,7 +122,7 @@ URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
  on
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Encode: FLUX: In Production — build window
+SUMMARY:Encode: FLUX: In Production — build window
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261217
 UID:hack-encode-bfl-flux-in-production-window@hackathons-ics
@@ -131,7 +131,7 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/bfl-flux-in-production
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: FLUX: In Production registration
+SUMMARY:DEADLINE: Encode: FLUX: In Production registration
 DTSTART:20261211T225900Z
 DTEND:20261211T235900Z
 UID:hack-encode-bfl-flux-in-production-reg@hackathons-ics
@@ -140,7 +140,7 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/bfl-flux-in-production
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Encode: FLUX: In Production submissions
+SUMMARY:DEADLINE: Encode: FLUX: In Production submissions
 DTSTART:20261211T225900Z
 DTEND:20261211T235900Z
 UID:hack-encode-bfl-flux-in-production-sub@hackathons-ics

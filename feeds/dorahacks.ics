@@ -32,7 +32,7 @@ LOCATION:Online
 URL:https://dorahacks.io/hackathon/reactive-omni-buildathon
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Build with CMC: API Hackathon (Plushie) — build window
+SUMMARY:Build with CMC: API Hackathon (Plushie) — build window
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261211
 UID:hack-dorahacks-coinmarketcap-api-202611-window@hackathons-ics
@@ -67,5 +67,14 @@ UID:hack-dorahacks-even-realities-window@hackathons-ics
 DESCRIPTION:Tags: web3 · Source: dorahacks
 LOCATION:Online
 URL:https://dorahacks.io/hackathon/even-realities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Gnome Tavern Hackathon | Gno.land — build window
+DTSTART:20261123T010000Z
+DTEND:20261218T010000Z
+UID:hack-dorahacks-gnome-tavern-window@hackathons-ics
+DESCRIPTION:Tags: web3 · Source: dorahacks
+LOCATION:Online
+URL:https://dorahacks.io/hackathon/gnome-tavern
 END:VEVENT
 END:VCALENDAR

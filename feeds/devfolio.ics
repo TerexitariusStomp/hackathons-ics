@@ -14,15 +14,6 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Code N Mod — build window
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-UID:hack-devfolio-devfolio-codenmod-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://codenmod.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] DevNexus 2.0 — build window
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
@@ -174,5 +165,14 @@ UID:hack-devfolio-devfolio-hack2027-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://hack2027.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] doubleSlash 5.0 — build window
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://doubleslash5.devfolio.co
 END:VEVENT
 END:VCALENDAR
