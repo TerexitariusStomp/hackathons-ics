@@ -14,15 +14,6 @@ LOCATION:TBA
 URL:https://founders-house-kolkata.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DevNexus 2.0 — build window
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
-UID:hack-devfolio-devfolio-devnexus2-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://devnexus2.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clash of Commits — build window
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
@@ -174,5 +165,14 @@ UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://doubleslash5.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Diversion 2k27 — build window
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+UID:hack-devfolio-devfolio-diversion2k27-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://diversion2k27.devfolio.co
 END:VEVENT
 END:VCALENDAR

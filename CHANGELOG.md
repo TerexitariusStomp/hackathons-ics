@@ -1,5 +1,88 @@
 ## 2026-11-23
 
+### Added (12)
+- devfolio-devfolio-diversion2k27
+- devnovate-devnovate-6af961a4eba10569899b4318
+- hack2skill-h2s-6afc3513dffa09e082d53006
+- unstop-unstop-1800622
+- unstop-unstop-1820502
+- unstop-unstop-1820851
+- unstop-unstop-1820854
+- unstop-unstop-1820868
+- unstop-unstop-1820895
+- unstop-unstop-1823604
+- unstop-unstop-1824377
+- unstop-unstop-1824394
+
+### Removed (8)
+- devfolio-devfolio-devnexus2
+- unstop-unstop-1746846
+- unstop-unstop-1771785
+- unstop-unstop-1781454
+- unstop-unstop-1803912
+- unstop-unstop-1811016
+- unstop-unstop-1819682
+- unstop-unstop-1820882
+
+### Rescheduled (148)
+- unstop-unstop-1806984
+- unstop-unstop-1772496
+- unstop-unstop-1817757
+- unstop-unstop-1800629
+- unstop-unstop-1820715
+- unstop-unstop-1817389
+- unstop-unstop-1809486
+- unstop-unstop-1794522
+- unstop-unstop-1800324
+- unstop-unstop-1765597
+- unstop-unstop-1799800
+- unstop-unstop-1822588
+- unstop-unstop-1817749
+- unstop-unstop-1742226
+- unstop-unstop-1652247
+- unstop-unstop-1746232
+- unstop-unstop-1773246
+- unstop-unstop-1811240
+- unstop-unstop-1793392
+- unstop-unstop-1762519
+- unstop-unstop-1776729
+- unstop-unstop-1801200
+- unstop-unstop-1801378
+- unstop-unstop-1814983
+- unstop-unstop-1823739
+- unstop-unstop-1802089
+- unstop-unstop-1814270
+- unstop-unstop-1755564
+- unstop-unstop-1798677
+- unstop-unstop-1817798
+- unstop-unstop-1782949
+- unstop-unstop-1807297
+- unstop-unstop-1799762
+- unstop-unstop-1791313
+- unstop-unstop-1764465
+- unstop-unstop-1818968
+- unstop-unstop-1764445
+- unstop-unstop-1745778
+- unstop-unstop-1803074
+- unstop-unstop-1795775
+- unstop-unstop-1810268
+- unstop-unstop-1822209
+- unstop-unstop-1768100
+- unstop-unstop-1777639
+- unstop-unstop-1799143
+- unstop-unstop-1792152
+- unstop-unstop-1763561
+- unstop-unstop-1820028
+- unstop-unstop-1772164
+- unstop-unstop-1773120
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-23
+
 ### Added (6)
 - devfolio-devfolio-doubleslash5
 - dorahacks-gnome-tavern

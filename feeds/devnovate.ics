@@ -24,6 +24,27 @@ LOCATION:VIRTUAL
 URL:https://devnovate.co/event/troogue-talent-hackathon
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 — build 
+ window
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261206
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: CODE RUSH – 24 Hours Hackathon  | IGNITRON 2K26 
+ registration
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:hack-devnovate-devnovate-6af961a4eba10569899b4318-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:GM University\\\, Davangere\\\, Karnataka\\\, India
+URL:https://devnovate.co/event/code-rush-24-hours-hackathon-ignitron-2k26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] HireveinAI Ideathon 2026 — build window
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261226
