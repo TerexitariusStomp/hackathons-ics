@@ -1,5 +1,91 @@
 ## 2026-11-24
 
+### Added (13)
+- devfolio-devfolio-goa-buildathon
+- devfolio-devfolio-hacksprint-3
+- devfolio-devfolio-health-hackathon
+- devfolio-devfolio-udaya-2-o
+- devnovate-devnovate-6af961a4eba10569899b4318
+- hack2skill-h2s-6afc3513dffa09e082d53006
+- unstop-unstop-1781454
+- unstop-unstop-1814036
+- unstop-unstop-1826157
+- unstop-unstop-1826211
+- unstop-unstop-1826250
+- unstop-unstop-1826401
+- unstop-unstop-1826567
+
+### Removed (10)
+- devfolio-devfolio-doubleslash5
+- devnovate-devnovate-6adb8408e5f915e578b0479b
+- encode-encode-london-2026
+- unstop-unstop-1778597
+- unstop-unstop-1784631
+- unstop-unstop-1789849
+- unstop-unstop-1790680
+- unstop-unstop-1798470
+- unstop-unstop-1800857
+- unstop-unstop-1818639
+
+### Rescheduled (159)
+- unstop-unstop-1821954
+- unstop-unstop-1811526
+- unstop-unstop-1746233
+- unstop-unstop-1797543
+- unstop-unstop-1810554
+- unstop-unstop-1783515
+- unstop-unstop-1807297
+- unstop-unstop-1652247
+- unstop-unstop-1755564
+- unstop-unstop-1772164
+- unstop-unstop-1818820
+- unstop-unstop-1824377
+- unstop-unstop-1820870
+- unstop-unstop-1810370
+- unstop-unstop-1764474
+- unstop-unstop-1773246
+- unstop-unstop-1800629
+- unstop-unstop-1801378
+- unstop-unstop-1799765
+- unstop-unstop-1764188
+- unstop-unstop-1823841
+- unstop-unstop-1779479
+- unstop-unstop-1746232
+- unstop-unstop-1773675
+- unstop-unstop-1817240
+- unstop-unstop-1811240
+- unstop-unstop-1792152
+- unstop-unstop-1814002
+- unstop-unstop-1763561
+- unstop-unstop-1799767
+- unstop-unstop-1822884
+- unstop-unstop-1786652
+- unstop-unstop-1806122
+- unstop-unstop-1792025
+- unstop-unstop-1799761
+- unstop-unstop-1764167
+- unstop-unstop-1742226
+- unstop-unstop-1820895
+- unstop-unstop-1823604
+- unstop-unstop-1799092
+- unstop-unstop-1822588
+- unstop-unstop-1817749
+- hack2skill-h2s-6991f48ef55c0f157228b7f5
+- unstop-unstop-1771992
+- unstop-unstop-1820425
+- unstop-unstop-1771949
+- unstop-unstop-1776729
+- unstop-unstop-1824394
+- unstop-unstop-1763620
+- unstop-unstop-1822587
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-24
+
 ### Added (11)
 - devfolio-devfolio-abhyudaya
 - devpost-devpost-31642

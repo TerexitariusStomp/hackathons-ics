@@ -32,33 +32,6 @@ LOCATION:Online
 URL:https://www.encodeclub.com/programmes/solana-hackathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Encode: Encode London Hackathon 2026 — build window
-DTSTART:20261023T090000Z
-DTEND:20261025T163000Z
-UID:hack-encode-encode-london-2026-window@hackathons-ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/encode-london-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEADLINE: Encode: Encode London Hackathon 2026 registration
-DTSTART:20261025T163000Z
-DTEND:20261025T173000Z
-UID:hack-encode-encode-london-2026-reg@hackathons-ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/encode-london-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEADLINE: Encode: Encode London Hackathon 2026 submissions
-DTSTART:20261025T163000Z
-DTEND:20261025T173000Z
-UID:hack-encode-encode-london-2026-sub@hackathons-ics
-DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
-LOCATION:In-Person
-URL:https://www.encodeclub.com/programmes/encode-london-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Encode: Concordium Trusted Agents Hackathon — build window
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261212

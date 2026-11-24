@@ -7,7 +7,7 @@ X-WR-CALNAME:Hackathon Megaplan — devfolio
 BEGIN:VEVENT
 SUMMARY:Founders' House Kolkata — build window
 DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
 UID:hack-devfolio-devfolio-founders-house-kolkata-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
@@ -21,6 +21,15 @@ UID:hack-devfolio-devfolio-clash-of-commits-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://clash-of-commits.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] UDAYA 2.O — build window
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+UID:hack-devfolio-devfolio-udaya-2-o-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://udaya-2-o.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[NEW] ABHYUDAYA 2026 — build window
@@ -95,6 +104,15 @@ LOCATION:TBA
 URL:https://techacks05.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] GOA BUILDATHON 27 — build window
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+UID:hack-devfolio-devfolio-goa-buildathon-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://goa-buildathon.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HACK 6.0 — build window
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270125
@@ -111,6 +129,15 @@ UID:hack-devfolio-devfolio-hack-with-gdg-s4-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://hack-with-gdg-s4.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] Health Hackathon 3.0 — build window
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270130
+UID:hack-devfolio-devfolio-health-hackathon-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://health-hackathon.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innerve 11.0 — build window
@@ -131,6 +158,15 @@ LOCATION:TBA
 URL:https://hack-nexus.devfolio.co
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Hacksprint 3.0 — build window
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270207
+UID:hack-devfolio-devfolio-hacksprint-3-window@hackathons-ics
+DESCRIPTION:Source: devfolio
+LOCATION:TBA
+URL:https://hacksprint-3.devfolio.co
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] HACK2027 — build window
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270220
@@ -138,14 +174,5 @@ UID:hack-devfolio-devfolio-hack2027-window@hackathons-ics
 DESCRIPTION:Source: devfolio
 LOCATION:TBA
 URL:https://hack2027.devfolio.co
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] doubleSlash 5.0 — build window
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270301
-UID:hack-devfolio-devfolio-doubleslash5-window@hackathons-ics
-DESCRIPTION:Source: devfolio
-LOCATION:TBA
-URL:https://doubleslash5.devfolio.co
 END:VEVENT
 END:VCALENDAR
