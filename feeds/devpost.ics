@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Megaplan — devpost
 BEGIN:VEVENT
-SUMMARY:Arbiter Hacks V1 — build window
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261222
-UID:hack-devpost-devpost-30789-window@hackathons-ics
-DESCRIPTION:Source: devpost
-LOCATION:Online
-URL:https://arbiter-hacks-v1.devpost.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Codegeist 2026: Build with context. Ship with confidence. — buil
  d window
 DTSTART;VALUE=DATE:20261027
@@ -31,6 +22,15 @@ UID:hack-devpost-devpost-31667-window@hackathons-ics
 DESCRIPTION:Source: devpost
 LOCATION:Online
 URL:https://kiroween.devpost.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] AWS MSP AI Hackathon — build window
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261212
+UID:hack-devpost-devpost-31642-window@hackathons-ics
+DESCRIPTION:Source: devpost
+LOCATION:Online
+URL:https://aws-agentic-msp.devpost.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QNX Global Hackathon — build window
