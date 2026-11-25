@@ -1,5 +1,87 @@
 ## 2026-11-25
 
+### Added (10)
+- devfolio-devfolio-texus27
+- unstop-unstop-1772235
+- unstop-unstop-1806122
+- unstop-unstop-1814814
+- unstop-unstop-1826867
+- unstop-unstop-1827472
+- unstop-unstop-1827808
+- unstop-unstop-1827866
+- unstop-unstop-1828382
+- unstop-unstop-1828497
+
+### Removed (9)
+- devfolio-devfolio-makerspark
+- devnovate-devnovate-6afdb1a7eba1056989a88dab
+- hack2skill-h2s-6adb2d460d89d95c5425bea1
+- hack2skill-h2s-6afc3513dffa09e082d53006
+- unstop-unstop-1774417
+- unstop-unstop-1799143
+- unstop-unstop-1800629
+- unstop-unstop-1806984
+- unstop-unstop-1814263
+
+### Rescheduled (160)
+- unstop-unstop-1793392
+- unstop-unstop-1814983
+- unstop-unstop-1810370
+- unstop-unstop-1764465
+- unstop-unstop-1764469
+- unstop-unstop-1652247
+- unstop-unstop-1792025
+- unstop-unstop-1823841
+- unstop-unstop-1817499
+- unstop-unstop-1781078
+- unstop-unstop-1798677
+- unstop-unstop-1801200
+- unstop-unstop-1821962
+- unstop-unstop-1822546
+- unstop-unstop-1818490
+- unstop-unstop-1746846
+- unstop-unstop-1771949
+- unstop-unstop-1817389
+- unstop-unstop-1746142
+- unstop-unstop-1812368
+- unstop-unstop-1779479
+- unstop-unstop-1783515
+- unstop-unstop-1792152
+- unstop-unstop-1810268
+- unstop-unstop-1820425
+- unstop-unstop-1801378
+- unstop-unstop-1764446
+- unstop-unstop-1817696
+- unstop-unstop-1770707
+- unstop-unstop-1818968
+- unstop-unstop-1765597
+- unstop-unstop-1771785
+- unstop-unstop-1822587
+- unstop-unstop-1768100
+- unstop-unstop-1799800
+- unstop-unstop-1820870
+- unstop-unstop-1777504
+- unstop-unstop-1764460
+- unstop-unstop-1764461
+- unstop-unstop-1805107
+- unstop-unstop-1764474
+- unstop-unstop-1771511
+- unstop-unstop-1799179
+- unstop-unstop-1746234
+- unstop-unstop-1820868
+- unstop-unstop-1786992
+- unstop-unstop-1764463
+- unstop-unstop-1820895
+- unstop-unstop-1811085
+- unstop-unstop-1820028
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-25
+
 ### Added (4)
 - unstop-unstop-1812323
 - unstop-unstop-1825938

@@ -59,24 +59,6 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/builderpopup
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meet the Builders 2026 — build window
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261126
-UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:Online
-URL:https://vision.hack2skill.com/event/meetthebuilders2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEADLINE: Meet the Builders 2026 registration
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:Online
-URL:https://vision.hack2skill.com/event/meetthebuilders2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Watch Face Design Challenge 2026 — build window
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261207
@@ -165,24 +147,6 @@ UID:hack-hack2skill-h2s-6afbdfdcdffa09e082d44636-reg@hackathons-ics
 DESCRIPTION:Source: hack2skill
 LOCATION:TBA
 URL:https://vision.hack2skill.com/event/hacknovate8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] HACKATHON '27 — build window
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261216
-UID:hack-hack2skill-h2s-6afc3513dffa09e082d53006-window@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/prpcemhackathon27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: HACKATHON '27 registration
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-UID:hack-hack2skill-h2s-6afc3513dffa09e082d53006-reg@hackathons-ics
-DESCRIPTION:Source: hack2skill
-LOCATION:TBA
-URL:https://vision.hack2skill.com/event/prpcemhackathon27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PromptWars x Sphoorthy Engineering College — build window

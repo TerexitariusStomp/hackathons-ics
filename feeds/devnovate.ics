@@ -64,25 +64,6 @@ LOCATION:Remote
 URL:https://devnovate.co/event/hireveinai-ideathon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] HACKNOVA 2026 — build window
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:SDGI Global University
-URL:https://devnovate.co/event/hacknova-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: HACKNOVA 2026 registration
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-UID:hack-devnovate-devnovate-6afdb1a7eba1056989a88dab-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:SDGI Global University
-URL:https://devnovate.co/event/hacknova-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DESIGNX 24 — build window
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261203
