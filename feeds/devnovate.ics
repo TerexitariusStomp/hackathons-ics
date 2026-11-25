@@ -102,25 +102,6 @@ LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:wHACKiest — build window
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261203
-UID:hack-devnovate-devnovate-6afc6a1beba1056989a455f0-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:Ramaiah Institute of Technology
-URL:https://devnovate.co/event/whackiest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEADLINE: wHACKiest registration
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-UID:hack-devnovate-devnovate-6afc6a1beba1056989a455f0-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:Ramaiah Institute of Technology
-URL:https://devnovate.co/event/whackiest
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[NEW] prompt war X Syntax Squad — build window
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
