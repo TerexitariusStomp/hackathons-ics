@@ -1,5 +1,97 @@
 ## 2026-11-26
 
+### Added (17)
+- devfolio-devfolio-texus27
+- devnovate-devnovate-6b0807469aa56fddab5721d1
+- encode-hcompany-computer-use-agents-hackathon-london
+- hack2skill-h2s-6afc3513dffa09e082d53006
+- unstop-unstop-1745935
+- unstop-unstop-1778597
+- unstop-unstop-1784631
+- unstop-unstop-1789849
+- unstop-unstop-1790680
+- unstop-unstop-1798676
+- unstop-unstop-1817824
+- unstop-unstop-1818490
+- unstop-unstop-1825414
+- unstop-unstop-1829321
+- unstop-unstop-1829639
+- unstop-unstop-1829674
+- unstop-unstop-1829921
+
+### Removed (12)
+- devfolio-devfolio-goa-buildathon
+- devfolio-devfolio-hacksprint-3
+- devfolio-devfolio-health-hackathon
+- devfolio-devfolio-makerspark
+- devnovate-devnovate-6afdfa50eba1056989167e0a
+- hack2skill-h2s-6aaa2929ed627e91ce54e73d
+- unstop-unstop-1781454
+- unstop-unstop-1782514
+- unstop-unstop-1811085
+- unstop-unstop-1817696
+- unstop-unstop-1822209
+- unstop-unstop-1828749
+
+### Rescheduled (165)
+- unstop-unstop-1828497
+- unstop-unstop-1771511
+- unstop-unstop-1800622
+- unstop-unstop-1764465
+- unstop-unstop-1781449
+- unstop-unstop-1794522
+- unstop-unstop-1781078
+- unstop-unstop-1820425
+- unstop-unstop-1801378
+- unstop-unstop-1806122
+- unstop-unstop-1823739
+- unstop-unstop-1799281
+- unstop-unstop-1826269
+- unstop-unstop-1825506
+- unstop-unstop-1826211
+- unstop-unstop-1802089
+- unstop-unstop-1817736
+- unstop-unstop-1794479
+- unstop-unstop-1801200
+- unstop-unstop-1817749
+- unstop-unstop-1800395
+- unstop-unstop-1772164
+- unstop-unstop-1820715
+- unstop-unstop-1814036
+- unstop-unstop-1821912
+- unstop-unstop-1826867
+- unstop-unstop-1814983
+- unstop-unstop-1764446
+- unstop-unstop-1776729
+- unstop-unstop-1798677
+- unstop-unstop-1771952
+- unstop-unstop-1771785
+- unstop-unstop-1792152
+- unstop-unstop-1795775
+- unstop-unstop-1764452
+- unstop-unstop-1799179
+- unstop-unstop-1799762
+- unstop-unstop-1820854
+- unstop-unstop-1824394
+- unstop-unstop-1786992
+- unstop-unstop-1818894
+- unstop-unstop-1817499
+- unstop-unstop-1755564
+- unstop-unstop-1781358
+- unstop-unstop-1730263
+- unstop-unstop-1794889
+- unstop-unstop-1746234
+- unstop-unstop-1773246
+- unstop-unstop-1817798
+- unstop-unstop-1821954
+
+### Source health
+- EMPTY colosseum (0 events)
+- EMPTY ethstars (0 events)
+
+
+## 2026-11-26
+
 ### Added (7)
 - devfolio-devfolio-makerspark
 - unstop-unstop-1791410

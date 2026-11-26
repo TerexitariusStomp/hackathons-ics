@@ -95,6 +95,42 @@ URL:https://www.encodeclub.com/programmes/flywheel-content-led-gtm-hackath
  on
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Encode: Computer Use Agents Hackathon: London Edition — bu
+ ild window
+DTSTART:20261128T090000Z
+DTEND:20261128T190000Z
+UID:hack-encode-hcompany-computer-use-agents-hackathon-london-window@hacka
+ thons-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/hcompany-computer-use-agents-hac
+ kathon-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Computer Use Agents Hackathon: London Edit
+ ion registration
+DTSTART:20261128T190000Z
+DTEND:20261128T200000Z
+UID:hack-encode-hcompany-computer-use-agents-hackathon-london-reg@hackatho
+ ns-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/hcompany-computer-use-agents-hac
+ kathon-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Encode: Computer Use Agents Hackathon: London Edit
+ ion submissions
+DTSTART:20261128T190000Z
+DTEND:20261128T200000Z
+UID:hack-encode-hcompany-computer-use-agents-hackathon-london-sub@hackatho
+ ns-ics
+DESCRIPTION:Tags: web3\\\, education · Source: encodeclub
+LOCATION:In-Person
+URL:https://www.encodeclub.com/programmes/hcompany-computer-use-agents-hac
+ kathon-london
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Encode: FLUX: In Production — build window
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261217
