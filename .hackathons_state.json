@@ -48,14 +48,6 @@
    "start": "2026-11-08",
    "title": "Founders' House Kolkata"
   },
-  "devfolio-devfolio-goa-buildathon": {
-   "end": "2027-01-17",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
-   "source": "devfolio",
-   "start": "2027-01-16",
-   "title": "GOA BUILDATHON 27"
-  },
   "devfolio-devfolio-hack-1736": {
    "end": "2027-01-24",
    "first_seen": "2026-11-11",
@@ -88,6 +80,14 @@
    "start": "2027-02-18",
    "title": "HACK2027"
   },
+  "devfolio-devfolio-hackfinity27": {
+   "end": "2026-12-18",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "devfolio",
+   "start": "2026-12-15",
+   "title": "Hackfinity27"
+  },
   "devfolio-devfolio-hackodisha-6a": {
    "end": "2026-12-13",
    "first_seen": "2026-11-11",
@@ -96,14 +96,6 @@
    "start": "2026-12-11",
    "title": "hackodisha-6.0"
   },
-  "devfolio-devfolio-hacksprint-3": {
-   "end": "2027-02-06",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
-   "source": "devfolio",
-   "start": "2027-02-05",
-   "title": "Hacksprint 3.0"
-  },
   "devfolio-devfolio-haxfinity": {
    "end": "2027-01-04",
    "first_seen": "2026-11-11",
@@ -111,14 +103,6 @@
    "source": "devfolio",
    "start": "2027-01-03",
    "title": "haxfinity"
-  },
-  "devfolio-devfolio-health-hackathon": {
-   "end": "2027-01-29",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
-   "source": "devfolio",
-   "start": "2027-01-28",
-   "title": "Health Hackathon 3.0"
   },
   "devfolio-devfolio-hft2026": {
    "end": "2027-01-03",
@@ -151,14 +135,6 @@
    "source": "devfolio",
    "start": "2027-01-15",
    "title": "Techacks 5.0"
-  },
-  "devfolio-devfolio-texus27": {
-   "end": "2027-02-14",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "devfolio",
-   "start": "2027-02-13",
-   "title": "Texus 2027"
   },
   "devfolio-devfolio-udaya-2-o": {
    "end": "2026-12-04",
@@ -239,6 +215,14 @@
    "source": "devnovate",
    "start": "2026-12-12",
    "title": "BENGALURU BUILDER'S TABLE"
+  },
+  "devnovate-devnovate-6b0807469aa56fddab5721d1": {
+   "end": "2027-02-06",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "devnovate",
+   "start": "2027-02-05",
+   "title": "Hacksprint 3.O"
   },
   "devpost-devpost-31083": {
    "end": "2026-12-15",
@@ -415,38 +399,6 @@
    "source": "manual",
    "start": "2026-12-26",
    "title": "ETHChiangmai & Longevity Hackathon"
-  },
-  "ethglobal-agenticmarkets": {
-   "end": "2026-12-10",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "ethglobal",
-   "start": "2026-12-03",
-   "title": "ETHGlobal: Agentic Markets"
-  },
-  "ethglobal-cannes2027": {
-   "end": "2027-04-16",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "ethglobal",
-   "start": "2027-04-14",
-   "title": "ETHGlobal: ETHGlobal Cannes 2027"
-  },
-  "ethglobal-newyork2027": {
-   "end": "2027-06-16",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "ethglobal",
-   "start": "2027-06-14",
-   "title": "ETHGlobal: ETHGlobal New York 2027"
-  },
-  "ethglobal-tokyo2027": {
-   "end": "2027-08-25",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "ethglobal",
-   "start": "2027-08-23",
-   "title": "ETHGlobal: ETHGlobal Tokyo 2027"
   },
   "hack2skill-h2s-6991a6b1f55c0f157226ed0b": {
    "end": "2026-12-31",
@@ -625,1404 +577,1364 @@
    "title": "Terminal 3 Build+Scale Agent Grant"
   },
   "unstop-unstop-1652247": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "National Research & Cloud Innovation Challenge Season 4 by 3SVK \u2014 Powered by Adaption Labs | 4.9K+ Registrations"
   },
   "unstop-unstop-1730263": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "AETHOS - Day Zero"
   },
+  "unstop-unstop-1735451": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Craft N Code (Chattisgarh)"
+  },
   "unstop-unstop-1742226": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "CTF Arena"
   },
   "unstop-unstop-1745778": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "The Black-Box Protocol: Stage 03 - System Convergence"
   },
   "unstop-unstop-1745935": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code West Bengal"
+   "start": "2026-11-25",
+   "title": "Craft N Code (West Bengal)"
   },
   "unstop-unstop-1746142": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code Haryana"
+   "start": "2026-11-25",
+   "title": "Craft N Code (Haryana)"
   },
   "unstop-unstop-1746232": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code Telangana"
+   "start": "2026-11-25",
+   "title": "Craft N Code (Telangana)"
   },
   "unstop-unstop-1746233": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code Delhi"
+   "start": "2026-11-25",
+   "title": "Craft N Code (Delhi)"
   },
   "unstop-unstop-1746234": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code Tamil Nadu"
+   "start": "2026-11-25",
+   "title": "Craft N Code (Tamil Nadu)"
   },
   "unstop-unstop-1746846": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Hacknexus"
   },
   "unstop-unstop-1755564": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Singularity 2.0"
   },
   "unstop-unstop-1759619": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "The Arcticathon "
   },
   "unstop-unstop-1760462": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Trivora"
   },
   "unstop-unstop-1761846": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Rabinjathon: Prime 1"
   },
   "unstop-unstop-1762519": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Anna AI OS Founding Builder Challenge 2026"
   },
   "unstop-unstop-1763561": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "NewYear X Thon 2K27"
   },
   "unstop-unstop-1763620": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "TCU Hack Day"
   },
   "unstop-unstop-1764167": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Product Challenge | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764188": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Strategy Sprint | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764445": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Robo Race | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764446": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Drone Soccer | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764450": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Beat The Market | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764452": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Trade Quest | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764454": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Pitch Premier | Techkriti | IIT KANPUR"
   },
   "unstop-unstop-1764460": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Hovermania | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764461": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Skysparks - Boeing National Aeromodelling Competition | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764463": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Multirotor | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764465": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Techkriti Grand Prix | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764469": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Manoeuvre | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764470": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Robowars | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764471": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Speed Quant | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1764474": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Code N Compete | TECHKRITI | IIT KANPUR"
   },
   "unstop-unstop-1765597": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "PromptWars Hyderabad 2026 - AI & Prompt Engineering Competition"
   },
   "unstop-unstop-1768100": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Ooty Hacks"
   },
   "unstop-unstop-1770707": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Skill Hackathon 2027"
   },
   "unstop-unstop-1771511": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Tech Expo 2027"
   },
   "unstop-unstop-1771785": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Hack Era 2.0"
   },
   "unstop-unstop-1771949": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "RedStone Rush 12 Hour Open Innovation Hackathon"
   },
   "unstop-unstop-1771952": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "NavUtkarsh x Leo Hackathon 2026 | Innovate, Build & Solve Real-World Problems"
   },
   "unstop-unstop-1771992": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "INDIA GOT SPOT 1.0"
   },
   "unstop-unstop-1772164": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "CodeBuild 2.0"
   },
-  "unstop-unstop-1772235": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hacknova'27 2.0"
-  },
   "unstop-unstop-1772406": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Quasar 5.0: 36-Hour International Hackathon"
   },
-  "unstop-unstop-1772496": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "K Hacks 4.0"
-  },
   "unstop-unstop-1773120": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Hackday 2.0"
   },
-  "unstop-unstop-1773246": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Craft N Code Odisha"
-  },
-  "unstop-unstop-1773675": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "StarForge : 24-Hour National Level Hackathon"
-  },
   "unstop-unstop-1775207": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "CodeClash: The November Nexus 2026"
   },
   "unstop-unstop-1776729": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "HackZ'26"
   },
   "unstop-unstop-1777639": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em"
   },
-  "unstop-unstop-1781078": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
+  "unstop-unstop-1778597": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Algonex 1.0"
+   "start": "2026-11-25",
+   "title": "Hacksprint 3.0"
   },
   "unstop-unstop-1781358": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Pixels To Prognosis"
   },
   "unstop-unstop-1781449": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "NeuroHack"
   },
-  "unstop-unstop-1781454": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027"
-  },
   "unstop-unstop-1782685": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Shaastra Programming Contest 2027"
   },
   "unstop-unstop-1782949": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Reverse Coding X"
   },
   "unstop-unstop-1782995": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "CPP - Competitive Programming Potpourri"
   },
   "unstop-unstop-1783515": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Code Conquest"
   },
-  "unstop-unstop-1786652": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "VYTRON'26 Hackathon"
-  },
-  "unstop-unstop-1786992": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Technova 2027"
-  },
-  "unstop-unstop-1787722": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "The Forge"
-  },
-  "unstop-unstop-1788753": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Central India Hackathon 4.0"
-  },
-  "unstop-unstop-1790680": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "National Online Hackathon 2026"
-  },
-  "unstop-unstop-1791313": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeAstra India 2026 \u2013 National Hackathon"
-  },
-  "unstop-unstop-1791410": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Code Rush \u2013 24 Hours Hackathon"
-  },
-  "unstop-unstop-1791574": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Capture The Flag (CTF)"
-  },
-  "unstop-unstop-1792025": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "INNOVATE INDIA - Hackathon 2026"
-  },
-  "unstop-unstop-1792152": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest"
-  },
-  "unstop-unstop-1793341": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "DoomForge"
-  },
-  "unstop-unstop-1793392": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "404 Hackathon"
-  },
-  "unstop-unstop-1793796": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "VYOM - National Level Hackathon Cum Project Competition"
-  },
-  "unstop-unstop-1794479": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Inceptrix 3.0"
-  },
-  "unstop-unstop-1794522": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeElitePune - Hack With Pune"
-  },
-  "unstop-unstop-1794889": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "The Code Vibes Hackathon 2.0"
-  },
-  "unstop-unstop-1795775": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Nexathon : Next Gen Hackathon"
-  },
-  "unstop-unstop-1797543": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Flare"
-  },
-  "unstop-unstop-1798676": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Protocol Zero: Boot | Hack | CTF"
-  },
-  "unstop-unstop-1798677": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "OVERCLOCK 2027 || A 24-Hour Hardware Hackathon "
-  },
-  "unstop-unstop-1798702": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeDia 2026"
-  },
-  "unstop-unstop-1799091": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hacksmart 2.0 Hackathon"
-  },
-  "unstop-unstop-1799092": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AI Vibeathon 1.0"
-  },
-  "unstop-unstop-1799179": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hackrush 2026"
-  },
-  "unstop-unstop-1799281": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Adaption Dataset Challenge"
-  },
-  "unstop-unstop-1799758": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Ethon"
-  },
-  "unstop-unstop-1799761": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "SQL Mania"
-  },
-  "unstop-unstop-1799762": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Project Jupyter"
-  },
-  "unstop-unstop-1799765": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Crackhunt"
-  },
-  "unstop-unstop-1799767": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Expanding Horizons 8.0 Software"
-  },
-  "unstop-unstop-1799800": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Solidworks"
-  },
-  "unstop-unstop-1800324": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Agentware | 72-Hour Hackathon"
-  },
-  "unstop-unstop-1800395": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship"
-  },
-  "unstop-unstop-1800622": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Codathon"
-  },
-  "unstop-unstop-1801200": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Code Red"
-  },
-  "unstop-unstop-1801378": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hackignite 1.0 \u2013 24 Hours National Level Hackathon"
-  },
-  "unstop-unstop-1802089": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "SHE CODE"
-  },
-  "unstop-unstop-1802090": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CSS Battle"
-  },
-  "unstop-unstop-1803074": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-11",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "IDEATHON- FutureX: Innovating for Global Challenges"
-  },
-  "unstop-unstop-1805107": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Bad Ideas Only"
-  },
-  "unstop-unstop-1805946": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Android Ignition"
-  },
-  "unstop-unstop-1806016": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Incursion 2027 24-Hour National Level Hackathon"
-  },
-  "unstop-unstop-1806122": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Defy'27"
-  },
-  "unstop-unstop-1807297": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "HackKro CodeByte 2026"
-  },
-  "unstop-unstop-1809486": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "LightHouse - Hackathon"
-  },
-  "unstop-unstop-1810268": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CODERED'26"
-  },
-  "unstop-unstop-1810370": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Code Relay 5.0"
-  },
-  "unstop-unstop-1810554": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Mantrastra"
-  },
-  "unstop-unstop-1811240": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-15",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "The Algo Trading Innovation Challenge"
-  },
-  "unstop-unstop-1811349": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "OpenCode 2026"
-  },
-  "unstop-unstop-1811493": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-15",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "ELU Build"
-  },
-  "unstop-unstop-1811526": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CircuitX"
-  },
-  "unstop-unstop-1812323": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Nexora AI \u2013 National AI & Innovation Hackathon 2026"
-  },
-  "unstop-unstop-1812368": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Spectrum 1.0 \u2013 24 Hour National Level Hackathon"
-  },
-  "unstop-unstop-1814002": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-17",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CTF Cicada 2026"
-  },
-  "unstop-unstop-1814036": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Divergent Merch Design Challenge"
-  },
-  "unstop-unstop-1814270": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "SustainIQ"
-  },
-  "unstop-unstop-1814814": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "BUILDFEST 2026 \u2013 National Student Hackathon"
-  },
-  "unstop-unstop-1814983": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Protothon 2k26"
-  },
-  "unstop-unstop-1817240": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "REFRACT 1.0 Hackathon"
-  },
-  "unstop-unstop-1817389": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "PromptWars x Quad Bengaluru"
-  },
-  "unstop-unstop-1817499": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hack Uttar Pradesh 2026"
-  },
-  "unstop-unstop-1817736": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Code Fort 2027"
-  },
-  "unstop-unstop-1817737": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeWarriors India 2026 - National Hackathon"
-  },
-  "unstop-unstop-1817749": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeUnited India - National Hackathon"
-  },
-  "unstop-unstop-1817757": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Nurn 2026 \u2013 National Innovation & Technology Challenge"
-  },
-  "unstop-unstop-1817798": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AI Kaushal Hackathon 2026"
-  },
-  "unstop-unstop-1817824": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "PromptWars x NEXORA "
-  },
-  "unstop-unstop-1818820": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Operation Blackout"
-  },
-  "unstop-unstop-1818894": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Anveshak: Open-World Object Detection for Remote Sensing"
-  },
-  "unstop-unstop-1818968": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Campus to Cloud Hackathon"
-  },
-  "unstop-unstop-1820028": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon "
-  },
-  "unstop-unstop-1820425": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "KITE Winter Innovation Expedition \u2013 National-Level Innovation Challenge"
-  },
-  "unstop-unstop-1820502": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "India AI Open 2026: Free AI Talent Contest for Students and Engineers"
-  },
-  "unstop-unstop-1820715": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live"
-  },
-  "unstop-unstop-1820851": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hack The Hardware"
-  },
-  "unstop-unstop-1820854": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Apex CTF"
-  },
-  "unstop-unstop-1820868": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hackathon"
-  },
-  "unstop-unstop-1820870": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-22",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AWS Winter League 2026"
-  },
-  "unstop-unstop-1820895": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Agentic Arena"
-  },
-  "unstop-unstop-1821473": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "OpenVerse '26"
-  },
-  "unstop-unstop-1821912": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-22",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Claude Build Challenge 2026"
-  },
-  "unstop-unstop-1821954": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AI-Powered Career Development Hackathon"
-  },
-  "unstop-unstop-1821962": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "ThinCovation 2026"
-  },
-  "unstop-unstop-1822546": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Data Nilaam (ML Event)"
-  },
-  "unstop-unstop-1822587": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hojohborolo (Dev Event)"
-  },
-  "unstop-unstop-1822588": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Mogoj Dholai (CP contest)"
-  },
-  "unstop-unstop-1822884": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-22",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "ELUCode - 9"
-  },
-  "unstop-unstop-1823604": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Adaptics - Open Innovation Hackathon"
-  },
-  "unstop-unstop-1823739": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodeEncoders India 2026 \u2014 National Hackathon"
-  },
-  "unstop-unstop-1823841": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Ideathon: Idea to Prototyping Challenge"
-  },
-  "unstop-unstop-1824377": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AgentX"
-  },
-  "unstop-unstop-1824394": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Starlight Arena - AI Red Teaming Competition"
-  },
-  "unstop-unstop-1825414": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "HackxCraft \u2013 A 6 hour coding challenge"
-  },
-  "unstop-unstop-1825506": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition"
-  },
-  "unstop-unstop-1825938": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CoMemor Contributor Challenge"
-  },
-  "unstop-unstop-1826157": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Parallax Hackathon 2026"
-  },
-  "unstop-unstop-1826211": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Zenith'2k26"
-  },
-  "unstop-unstop-1826250": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Bharat Academix Global Innovatex 2027"
-  },
-  "unstop-unstop-1826269": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Enigma 2.0 \u2013 24-Hour National level Hackathon | Riet Jaipur"
-  },
-  "unstop-unstop-1826401": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "AI CodeStorm 2026 "
-  },
-  "unstop-unstop-1826567": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "TryHackingMe Hackathon"
-  },
-  "unstop-unstop-1826867": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "UNIVION: CHRONOS DE NOVO"
-  },
-  "unstop-unstop-1826953": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-26",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Imagine the Impossible: The Game Design Challenge "
-  },
-  "unstop-unstop-1827287": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "LogiTHON 2026"
-  },
-  "unstop-unstop-1827472": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Finance Next Hackathon 2026"
-  },
-  "unstop-unstop-1827808": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Utopia Stock Exchange"
-  },
-  "unstop-unstop-1827866": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "CodePulse 48 - National Hackathon"
-  },
-  "unstop-unstop-1828382": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Hack for Good: Open Innovation Hackathon"
-  },
-  "unstop-unstop-1828497": {
-   "end": "2026-12-13",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-27",
-   "source": "unstop",
-   "start": "2026-12-12",
-   "title": "Snow Code"
-  },
-  "unstop-unstop-1828645": {
-   "end": "2026-12-13",
+  "unstop-unstop-1784631": {
+   "end": "2026-12-04",
    "first_seen": "2026-11-27",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
+   "title": "Health Hackathon 3.0"
+  },
+  "unstop-unstop-1786652": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "VYTRON'26 Hackathon"
+  },
+  "unstop-unstop-1786992": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Technova 2027"
+  },
+  "unstop-unstop-1787722": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "The Forge"
+  },
+  "unstop-unstop-1788753": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Central India Hackathon 4.0"
+  },
+  "unstop-unstop-1790680": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "National Online Hackathon 2026"
+  },
+  "unstop-unstop-1791313": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeAstra India 2026 \u2013 National Hackathon"
+  },
+  "unstop-unstop-1791574": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Capture The Flag (CTF)"
+  },
+  "unstop-unstop-1792025": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "INNOVATE INDIA - Hackathon 2026"
+  },
+  "unstop-unstop-1792152": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest"
+  },
+  "unstop-unstop-1793341": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "DoomForge"
+  },
+  "unstop-unstop-1793796": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "VYOM - National Level Hackathon Cum Project Competition"
+  },
+  "unstop-unstop-1794479": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Inceptrix 3.0"
+  },
+  "unstop-unstop-1794522": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeElitePune - Hack With Pune"
+  },
+  "unstop-unstop-1794889": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "The Code Vibes Hackathon 2.0"
+  },
+  "unstop-unstop-1795775": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Nexathon : Next Gen Hackathon"
+  },
+  "unstop-unstop-1797543": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Flare"
+  },
+  "unstop-unstop-1798676": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Protocol Zero: Boot | Hack | CTF"
+  },
+  "unstop-unstop-1798677": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "OVERCLOCK 2027 || A 24-Hour Hardware Hackathon "
+  },
+  "unstop-unstop-1799091": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hacksmart 2.0 Hackathon"
+  },
+  "unstop-unstop-1799092": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "AI Vibeathon 1.0"
+  },
+  "unstop-unstop-1799179": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hackrush 2026"
+  },
+  "unstop-unstop-1799281": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Adaption Dataset Challenge"
+  },
+  "unstop-unstop-1799758": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Ethon"
+  },
+  "unstop-unstop-1799761": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "SQL Mania"
+  },
+  "unstop-unstop-1799762": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Project Jupyter"
+  },
+  "unstop-unstop-1799765": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Crackhunt"
+  },
+  "unstop-unstop-1799800": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Solidworks"
+  },
+  "unstop-unstop-1800395": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship"
+  },
+  "unstop-unstop-1800622": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Codathon"
+  },
+  "unstop-unstop-1801200": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Code Red"
+  },
+  "unstop-unstop-1801378": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hackignite 1.0 \u2013 24 Hours National Level Hackathon"
+  },
+  "unstop-unstop-1802089": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "SHE CODE"
+  },
+  "unstop-unstop-1802090": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CSS Battle"
+  },
+  "unstop-unstop-1803074": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "IDEATHON- FutureX: Innovating for Global Challenges"
+  },
+  "unstop-unstop-1805107": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Bad Ideas Only"
+  },
+  "unstop-unstop-1805946": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Android Ignition"
+  },
+  "unstop-unstop-1806016": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Incursion 2027 24-Hour National Level Hackathon"
+  },
+  "unstop-unstop-1807297": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "HackKro CodeByte 2026"
+  },
+  "unstop-unstop-1809486": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "LightHouse - Hackathon"
+  },
+  "unstop-unstop-1810268": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CODERED'26"
+  },
+  "unstop-unstop-1810370": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Code Relay 5.0"
+  },
+  "unstop-unstop-1810554": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Mantrastra"
+  },
+  "unstop-unstop-1811240": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "The Algo Trading Innovation Challenge"
+  },
+  "unstop-unstop-1811349": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "OpenCode 2026"
+  },
+  "unstop-unstop-1811493": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "ELU Build"
+  },
+  "unstop-unstop-1811526": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CircuitX"
+  },
+  "unstop-unstop-1812323": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Nexora AI \u2013 National AI & Innovation Hackathon 2026"
+  },
+  "unstop-unstop-1812368": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Spectrum 1.0 \u2013 24 Hour National Level Hackathon"
+  },
+  "unstop-unstop-1814002": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CTF Cicada 2026"
+  },
+  "unstop-unstop-1814270": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "SustainIQ"
+  },
+  "unstop-unstop-1814814": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "BUILDFEST 2026 \u2013 National Student Hackathon"
+  },
+  "unstop-unstop-1817240": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "REFRACT 1.0 Hackathon"
+  },
+  "unstop-unstop-1817389": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "PromptWars x Quad Bengaluru"
+  },
+  "unstop-unstop-1817499": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hack Uttar Pradesh 2026"
+  },
+  "unstop-unstop-1817736": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Code Fort 2027"
+  },
+  "unstop-unstop-1817737": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeWarriors India 2026 - National Hackathon"
+  },
+  "unstop-unstop-1817749": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeUnited India - National Hackathon"
+  },
+  "unstop-unstop-1817757": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Nurn 2026 \u2013 National Innovation & Technology Challenge"
+  },
+  "unstop-unstop-1817824": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "PromptWars x NEXORA "
+  },
+  "unstop-unstop-1818490": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Prompt War & Syntax Squad "
+  },
+  "unstop-unstop-1818820": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Operation Blackout"
+  },
+  "unstop-unstop-1818894": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Anveshak: Open-World Object Detection for Remote Sensing"
+  },
+  "unstop-unstop-1818968": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Campus to Cloud Hackathon"
+  },
+  "unstop-unstop-1820028": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon "
+  },
+  "unstop-unstop-1820425": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "KITE Winter Innovation Expedition \u2013 National-Level Innovation Challenge"
+  },
+  "unstop-unstop-1820502": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "India AI Open 2026: Free AI Talent Contest for Students and Engineers"
+  },
+  "unstop-unstop-1820715": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live"
+  },
+  "unstop-unstop-1820851": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hack The Hardware"
+  },
+  "unstop-unstop-1820854": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Apex CTF"
+  },
+  "unstop-unstop-1820868": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hackathon"
+  },
+  "unstop-unstop-1820870": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "AWS Winter League 2026"
+  },
+  "unstop-unstop-1820895": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Agentic Arena"
+  },
+  "unstop-unstop-1821473": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "OpenVerse '26"
+  },
+  "unstop-unstop-1821912": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Claude Build Challenge 2026"
+  },
+  "unstop-unstop-1821954": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "AI-Powered Career Development Hackathon"
+  },
+  "unstop-unstop-1822546": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Data Nilaam (ML Event)"
+  },
+  "unstop-unstop-1822587": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hojohborolo (Dev Event)"
+  },
+  "unstop-unstop-1822588": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Mogoj Dholai (CP contest)"
+  },
+  "unstop-unstop-1822884": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "ELUCode - 9"
+  },
+  "unstop-unstop-1823604": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Adaptics - Open Innovation Hackathon"
+  },
+  "unstop-unstop-1823739": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeEncoders India 2026 \u2014 National Hackathon"
+  },
+  "unstop-unstop-1823841": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Ideathon: Idea to Prototyping Challenge"
+  },
+  "unstop-unstop-1824377": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "AgentX"
+  },
+  "unstop-unstop-1824394": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Starlight Arena - AI Red Teaming Competition"
+  },
+  "unstop-unstop-1825414": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "HackxCraft \u2013 A 6 hour coding challenge"
+  },
+  "unstop-unstop-1825506": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition"
+  },
+  "unstop-unstop-1825938": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CoMemor Contributor Challenge"
+  },
+  "unstop-unstop-1826157": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Parallax Hackathon 2026"
+  },
+  "unstop-unstop-1826211": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Zenith'2k26"
+  },
+  "unstop-unstop-1826250": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Bharat Academix Global Innovatex 2027"
+  },
+  "unstop-unstop-1826269": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Enigma 2.0 \u2013 24-Hour National level Hackathon | Riet Jaipur"
+  },
+  "unstop-unstop-1826401": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "AI CodeStorm 2026 "
+  },
+  "unstop-unstop-1826567": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "TryHackingMe Hackathon"
+  },
+  "unstop-unstop-1826867": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "UNIVION: CHRONOS DE NOVO"
+  },
+  "unstop-unstop-1826953": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Imagine the Impossible: The Game Design Challenge "
+  },
+  "unstop-unstop-1827287": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "LogiTHON 2026"
+  },
+  "unstop-unstop-1827472": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Finance Next Hackathon 2026"
+  },
+  "unstop-unstop-1827808": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Utopia Stock Exchange"
+  },
+  "unstop-unstop-1827866": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodePulse 48 - National Hackathon"
+  },
+  "unstop-unstop-1828382": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Hack for Good: Open Innovation Hackathon"
+  },
+  "unstop-unstop-1828497": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Snow Code"
+  },
+  "unstop-unstop-1828645": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
    "title": "InteractUp Nexus National Hackathon"
   },
   "unstop-unstop-1828678": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Hackday Dec"
   },
   "unstop-unstop-1828890": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Agentic AI Hackathon 2026"
   },
   "unstop-unstop-1829321": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Tech Eximius 3.0"
   },
+  "unstop-unstop-1829467": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Infriqa Design. Build. Operate. Challenge"
+  },
   "unstop-unstop-1829639": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Novatrix 2026"
   },
   "unstop-unstop-1829674": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "AI Agent Development & Enhancement Hackathon"
   },
   "unstop-unstop-1829921": {
-   "end": "2026-12-13",
+   "end": "2026-12-04",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-27",
    "source": "unstop",
-   "start": "2026-12-12",
+   "start": "2026-11-25",
    "title": "Dry Run: DSA Challenge"
+  },
+  "unstop-unstop-1830429": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeHive Coding Night"
+  },
+  "unstop-unstop-1830705": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "CodeAtScale - National Hackathon"
+  },
+  "unstop-unstop-1830923": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "ActTrident AI Hackathon 2026"
+  },
+  "unstop-unstop-1831381": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Craft N Code (Andhra Pradesh)"
+  },
+  "unstop-unstop-1831393": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Craft N Code (Bihar)"
+  },
+  "unstop-unstop-1831394": {
+   "end": "2026-12-04",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "source": "unstop",
+   "start": "2026-11-25",
+   "title": "Craft N Code (Punjab)"
   },
   "whereuelevate-wue-0": {
    "end": "2026-12-06",
@@ -2035,7 +1947,7 @@
  },
  "health": {
   "aggregator_api": {
-   "count": 236,
+   "count": 235,
    "ok": true
   },
   "colosseum": {
@@ -2051,7 +1963,7 @@
    "ok": true
   },
   "ethglobal": {
-   "count": 5,
+   "count": 0,
    "ok": true
   },
   "ethstars": {
