@@ -83,6 +83,25 @@ LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] prompt war X Syntax Squad — build window
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-window@hackathons-ic
+ s
+DESCRIPTION:Source: devnovate
+LOCATION:online 
+URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: prompt war X Syntax Squad registration
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-reg@hackathons-ics
+DESCRIPTION:Source: devnovate
+LOCATION:online 
+URL:https://devnovate.co/event/prompt-war-x-syntax-squad
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] BENGALURU BUILDER'S TABLE — build window
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
@@ -138,24 +157,5 @@ UID:hack-devnovate-devnovate-6a61093bf04edb6113ce8e7e-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
 LOCATION:SVNIT Campus\\\, SVNIT Surat
 URL:https://devnovate.co/event/dotslash-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] Hacksprint 3.O — build window
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270207
-UID:hack-devnovate-devnovate-6b0807469aa56fddab5721d1-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:Karpagam Academy of Higher Education\\\,Coimbatore
-URL:https://devnovate.co/event/hacksprint-3o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hacksprint 3.O registration
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-UID:hack-devnovate-devnovate-6b0807469aa56fddab5721d1-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:Karpagam Academy of Higher Education\\\,Coimbatore
-URL:https://devnovate.co/event/hacksprint-3o
 END:VEVENT
 END:VCALENDAR

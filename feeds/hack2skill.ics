@@ -41,6 +41,24 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/promptwarsdelhincr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Meet the Builders 2026 — build window
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261130
+UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/meetthebuilders2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Meet the Builders 2026 registration
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+UID:hack-hack2skill-h2s-6adb2d460d89d95c5425bea1-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:Online
+URL:https://vision.hack2skill.com/event/meetthebuilders2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Watch Face Design Challenge 2026 — build window
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261207
@@ -113,7 +131,7 @@ LOCATION:Online
 URL:https://vision.hack2skill.com/event/pwvirtual1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] HACKNOVATE 8.0 — build window
+SUMMARY:HACKNOVATE 8.0 — build window
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20270121
 UID:hack-hack2skill-h2s-6afbdfdcdffa09e082d44636-window@hackathons-ics
@@ -122,7 +140,7 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/hacknovate8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: HACKNOVATE 8.0 registration
+SUMMARY:DEADLINE: HACKNOVATE 8.0 registration
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 UID:hack-hack2skill-h2s-6afbdfdcdffa09e082d44636-reg@hackathons-ics
