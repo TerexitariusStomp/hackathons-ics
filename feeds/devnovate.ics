@@ -83,26 +83,7 @@ LOCATION:Remote
 URL:https://devnovate.co/event/designx-24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] prompt war X Syntax Squad — build window
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-window@hackathons-ic
- s
-DESCRIPTION:Source: devnovate
-LOCATION:online 
-URL:https://devnovate.co/event/prompt-war-x-syntax-squad
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: prompt war X Syntax Squad registration
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-UID:hack-devnovate-devnovate-6afdfa50eba1056989167e0a-reg@hackathons-ics
-DESCRIPTION:Source: devnovate
-LOCATION:online 
-URL:https://devnovate.co/event/prompt-war-x-syntax-squad
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[NEW] BENGALURU BUILDER'S TABLE — build window
+SUMMARY:BENGALURU BUILDER'S TABLE — build window
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 UID:hack-devnovate-devnovate-6b0181f7eba10569898337ac-window@hackathons-ic
@@ -112,7 +93,7 @@ LOCATION:Microsoft Office\\\, Bangalore
 URL:https://devnovate.co/event/bengaluru-builders-table
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: BENGALURU BUILDER'S TABLE registration
+SUMMARY:DEADLINE: BENGALURU BUILDER'S TABLE registration
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 UID:hack-devnovate-devnovate-6b0181f7eba10569898337ac-reg@hackathons-ics
@@ -159,22 +140,24 @@ LOCATION:SVNIT Campus\\\, SVNIT Surat
 URL:https://devnovate.co/event/dotslash-100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] Hacksprint 3.O — build window
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270207
-UID:hack-devnovate-devnovate-6b0807469aa56fddab5721d1-window@hackathons-ic
+SUMMARY:[NEW] VGIS 2027 – 6-Hour Global Innovation Sprint — build wind
+ ow
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+UID:hack-devnovate-devnovate-6b0a64d89aa56fddab808e1d-window@hackathons-ic
  s
 DESCRIPTION:Source: devnovate
-LOCATION:Karpagam Academy of Higher Education\\\,Coimbatore
-URL:https://devnovate.co/event/hacksprint-3o
+LOCATION:Virtual 
+URL:https://devnovate.co/event/vgis-2027-6-hour-global-innovation-sprint
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NEW] DEADLINE: Hacksprint 3.O registration
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-UID:hack-devnovate-devnovate-6b0807469aa56fddab5721d1-reg@hackathons-ics
+SUMMARY:[NEW] DEADLINE: VGIS 2027 – 6-Hour Global Innovation Sprint regi
+ stration
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+UID:hack-devnovate-devnovate-6b0a64d89aa56fddab808e1d-reg@hackathons-ics
 DESCRIPTION:Source: devnovate
-LOCATION:Karpagam Academy of Higher Education\\\,Coimbatore
-URL:https://devnovate.co/event/hacksprint-3o
+LOCATION:Virtual 
+URL:https://devnovate.co/event/vgis-2027-6-hour-global-innovation-sprint
 END:VEVENT
 END:VCALENDAR

@@ -41,6 +41,24 @@ LOCATION:TBA
 URL:https://vision.hack2skill.com/event/promptwarsdelhincr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[NEW] Builder Pop-Up — build window
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20261129
+UID:hack-hack2skill-h2s-6aaa2929ed627e91ce54e73d-window@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/builderpopup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NEW] DEADLINE: Builder Pop-Up registration
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:hack-hack2skill-h2s-6aaa2929ed627e91ce54e73d-reg@hackathons-ics
+DESCRIPTION:Source: hack2skill
+LOCATION:TBA
+URL:https://vision.hack2skill.com/event/builderpopup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[NEW] Meet the Builders 2026 — build window
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261130
